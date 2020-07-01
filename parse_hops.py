@@ -1,5 +1,4 @@
 import json
-import os
 
 def transform(hop):
   return{

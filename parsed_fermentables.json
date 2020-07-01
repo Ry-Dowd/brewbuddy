@@ -1,0 +1,2946 @@
+[
+  {
+    "name": " NY 2-Row Base Malt",
+    "brand": "1886 Malt House"
+  },
+  {
+    "name": " NY 2-Row Pale Malt",
+    "brand": "1886 Malt House"
+  },
+  {
+    "name": "Caramel 40",
+    "brand": "1886 Malt House"
+  },
+  {
+    "name": "Caromatic 180",
+    "brand": "1886 Malt House"
+  },
+  {
+    "name": "NY 6-Row Base Malt",
+    "brand": "1886 Malt House"
+  },
+  {
+    "name": "NY Aromatic 20",
+    "brand": "1886 Malt House"
+  },
+  {
+    "name": "NY Caramel 20",
+    "brand": "1886 Malt House"
+  },
+  {
+    "name": "NY Munich Malt",
+    "brand": "1886 Malt House"
+  },
+  {
+    "name": "NY Pale Malt",
+    "brand": "1886 Malt House"
+  },
+  {
+    "name": "NY Pilsner Malt",
+    "brand": "1886 Malt House"
+  },
+  {
+    "name": "NY Red Winter Wheat",
+    "brand": "1886 Malt House"
+  },
+  {
+    "name": "NY Synergy Base Malt",
+    "brand": "1886 Malt House"
+  },
+  {
+    "name": "Admiral's Hearth",
+    "brand": "Admiral"
+  },
+  {
+    "name": "Feldblume",
+    "brand": "Admiral"
+  },
+  {
+    "name": "Gallagher's Best",
+    "brand": "Admiral"
+  },
+  {
+    "name": "Kilnsmith",
+    "brand": "Admiral"
+  },
+  {
+    "name": "Midway",
+    "brand": "Admiral"
+  },
+  {
+    "name": "Organic Pilsner Malt",
+    "brand": "Admiral"
+  },
+  {
+    "name": "Pacific Victor",
+    "brand": "Admiral"
+  },
+  {
+    "name": "Pils (Pilsner)",
+    "brand": "Admiral"
+  },
+  {
+    "name": "Yolo Gold Wheat",
+    "brand": "Admiral"
+  },
+  {
+    "name": "Munich Malt",
+    "brand": "Agr\u00e1ria"
+  },
+  {
+    "name": "Pale Ale Malt",
+    "brand": "Agr\u00e1ria"
+  },
+  {
+    "name": "Pilsner Malt",
+    "brand": "Agr\u00e1ria"
+  },
+  {
+    "name": "Vienna Malt",
+    "brand": "Agr\u00e1ria"
+  },
+  {
+    "name": "Dark Caramel Malt",
+    "brand": "Avangard"
+  },
+  {
+    "name": "Light Munich",
+    "brand": "Avangard"
+  },
+  {
+    "name": "Munich Dark",
+    "brand": "Avangard"
+  },
+  {
+    "name": "Pale 2-Row",
+    "brand": "Avangard"
+  },
+  {
+    "name": "Pale Ale Malt",
+    "brand": "Avangard"
+  },
+  {
+    "name": "Pilsner",
+    "brand": "Avangard"
+  },
+  {
+    "name": "Vienna",
+    "brand": "Avangard"
+  },
+  {
+    "name": "Wheat",
+    "brand": "Avangard"
+  },
+  {
+    "name": "Biscuit",
+    "brand": "BA Malt"
+  },
+  {
+    "name": "Brown",
+    "brand": "BA Malt"
+  },
+  {
+    "name": "Caramelo 120",
+    "brand": "BA Malt"
+  },
+  {
+    "name": "Caramelo 140",
+    "brand": "BA Malt"
+  },
+  {
+    "name": "Caramelo 15",
+    "brand": "BA Malt"
+  },
+  {
+    "name": "Caramelo 30",
+    "brand": "BA Malt"
+  },
+  {
+    "name": "Caramelo 60",
+    "brand": "BA Malt"
+  },
+  {
+    "name": "Carapils",
+    "brand": "BA Malt"
+  },
+  {
+    "name": "Cebada Tostada",
+    "brand": "BA Malt"
+  },
+  {
+    "name": "M Chocolate",
+    "brand": "BA Malt"
+  },
+  {
+    "name": "M Tostada",
+    "brand": "BA Malt"
+  },
+  {
+    "name": "Melanoidina",
+    "brand": "BA Malt"
+  },
+  {
+    "name": "Munich",
+    "brand": "BA Malt"
+  },
+  {
+    "name": "Pale Ale",
+    "brand": "BA Malt"
+  },
+  {
+    "name": "Pilsen",
+    "brand": "BA Malt"
+  },
+  {
+    "name": "Roasted Wheat",
+    "brand": "BA Malt"
+  },
+  {
+    "name": "Vienna",
+    "brand": "BA Malt"
+  },
+  {
+    "name": "Wheat Malt",
+    "brand": "BA Malt"
+  },
+  {
+    "name": "Chocolate Malt",
+    "brand": "Bairds"
+  },
+  {
+    "name": "Crystal Malt 150",
+    "brand": "Bairds"
+  },
+  {
+    "name": "Dextrin Malt",
+    "brand": "Bairds"
+  },
+  {
+    "name": "Maris Otter Pale Ale",
+    "brand": "Bairds"
+  },
+  {
+    "name": "Munich Malt",
+    "brand": "Bairds"
+  },
+  {
+    "name": "Pale Ale",
+    "brand": "Bairds"
+  },
+  {
+    "name": "Pilsen/Lager",
+    "brand": "Bairds"
+  },
+  {
+    "name": "Roasted Barley",
+    "brand": "Bairds"
+  },
+  {
+    "name": "Vienna Malt",
+    "brand": "Bairds"
+  },
+  {
+    "name": "Munich Malt II",
+    "brand": "Barnowl"
+  },
+  {
+    "name": "Pale Ale Malt",
+    "brand": "Barnowl"
+  },
+  {
+    "name": "Pilsener Malt",
+    "brand": "Barnowl"
+  },
+  {
+    "name": "Soft Red Wheat Malt",
+    "brand": "Barnowl"
+  },
+  {
+    "name": "Vienna",
+    "brand": "Barnowl"
+  },
+  {
+    "name": "Ale Malt",
+    "brand": "Barrett Burston"
+  },
+  {
+    "name": "Cara malt",
+    "brand": "Barrett Burston"
+  },
+  {
+    "name": "Dark Crystal Malt",
+    "brand": "Barrett Burston"
+  },
+  {
+    "name": "Dark Munich Malt",
+    "brand": "Barrett Burston"
+  },
+  {
+    "name": "Munich Malt",
+    "brand": "Barrett Burston"
+  },
+  {
+    "name": "Pale Malt",
+    "brand": "Barrett Burston"
+  },
+  {
+    "name": "Roasted Barley",
+    "brand": "Barrett Burston"
+  },
+  {
+    "name": "Vienna Malt",
+    "brand": "Barrett Burston"
+  },
+  {
+    "name": "Wheat Malt",
+    "brand": "Barrett Burston"
+  },
+  {
+    "name": "American - Oats",
+    "brand": "Bays Best Feed"
+  },
+  {
+    "name": "BEST Acidulated",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "BEST Biscuit",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "BEST Black Malt",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "BEST Black Malt eXtra",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "BEST Caramel Amber",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "BEST Caramel Aromatic",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "BEST Caramel Hell",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "BEST Caramel Munich I",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "BEST Caramel Munich II",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "BEST Caramel Munich III",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "BEST Caramel Pils",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "BEST Chit Malt",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "BEST Chocolate",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "BEST Heidelberg",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "BEST Heidelberg Wheat Malt",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "BEST Melanoidin",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "BEST Melanoidin Light",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "BEST Munich",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "BEST Munich Dark ",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "BEST Organic Pilsen Malt",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "BEST Pale ale",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "BEST Peated",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "BEST Pilsen",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "Best RED X",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "BEST Roasted Barley",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "BEST Smoked",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "BEST Special X",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "BEST Spelt",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "BEST Vienna",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "BEST Wheat Malt",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "BEST Wheat Malt Dark",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "Rye Malt",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "Salome Lager Malt",
+    "brand": "Bestmalz"
+  },
+  {
+    "name": "Brownfield 15 Munich",
+    "brand": "Blacklands"
+  },
+  {
+    "name": "Brownfield 25 Munich",
+    "brand": "Blacklands"
+  },
+  {
+    "name": "Brownfield 40 Munich",
+    "brand": "Blacklands"
+  },
+  {
+    "name": "Pale Moon 2-Row",
+    "brand": "Blacklands"
+  },
+  {
+    "name": "Silver Star 2-row",
+    "brand": "Blacklands"
+  },
+  {
+    "name": "Yankee Pilsner",
+    "brand": "Blue Ox Malthouse"
+  },
+  {
+    "name": "Pilsner",
+    "brand": "Brewferm"
+  },
+  {
+    "name": "Apple Wood Smoked Malt",
+    "brand": "Briess"
+  },
+  {
+    "name": "Aromatic Munich Malt 20L\t",
+    "brand": "Briess"
+  },
+  {
+    "name": "Aromatic Munich Malt 20L",
+    "brand": "Briess"
+  },
+  {
+    "name": "Ashbourne Mild",
+    "brand": "Briess"
+  },
+  {
+    "name": "Black Barley",
+    "brand": "Briess"
+  },
+  {
+    "name": "Black Malt - 2-Row",
+    "brand": "Briess"
+  },
+  {
+    "name": "Blackprinz Malt",
+    "brand": "Briess"
+  },
+  {
+    "name": "Blonde Roast Oat Malt",
+    "brand": "Briess"
+  },
+  {
+    "name": "Blonde RoastOat Malt",
+    "brand": "Briess"
+  },
+  {
+    "name": "Bonlander Munich Malt 10L",
+    "brand": "Briess"
+  },
+  {
+    "name": "Brewers Malt 2-Row",
+    "brand": "Briess"
+  },
+  {
+    "name": "Brewers Torrified Wheat",
+    "brand": "Briess"
+  },
+  {
+    "name": "Carabrown Malt",
+    "brand": "Briess"
+  },
+  {
+    "name": "Caracrystal Wheat Malt",
+    "brand": "Briess"
+  },
+  {
+    "name": "Caramel Malt - 10L",
+    "brand": "Briess"
+  },
+  {
+    "name": "Caramel Malt - 120L",
+    "brand": "Briess"
+  },
+  {
+    "name": "Caramel Malt - 20L",
+    "brand": "Briess"
+  },
+  {
+    "name": "Caramel Malt - 30L",
+    "brand": "Briess"
+  },
+  {
+    "name": "Caramel Malt - 40L",
+    "brand": "Briess"
+  },
+  {
+    "name": "Caramel Malt - 60L",
+    "brand": "Briess"
+  },
+  {
+    "name": "Caramel Malt - 80L",
+    "brand": "Briess"
+  },
+  {
+    "name": "Caramel Malt - 90L",
+    "brand": "Briess"
+  },
+  {
+    "name": "Caramel Munich 60L",
+    "brand": "Briess"
+  },
+  {
+    "name": "Caramel Rye",
+    "brand": "Briess"
+  },
+  {
+    "name": "Caramel Rye Malt",
+    "brand": "Briess"
+  },
+  {
+    "name": "Caramel Vienne 20L Malt",
+    "brand": "Briess"
+  },
+  {
+    "name": "Carapils Copper",
+    "brand": "Briess"
+  },
+  {
+    "name": "Carapils Copper Malt",
+    "brand": "Briess"
+  },
+  {
+    "name": "Carapils Malt",
+    "brand": "Briess"
+  },
+  {
+    "name": "Cherry Wood Smoked Malt",
+    "brand": "Briess"
+  },
+  {
+    "name": "Chocolate",
+    "brand": "Briess"
+  },
+  {
+    "name": "Dark Chocolate Malt",
+    "brand": "Briess"
+  },
+  {
+    "name": "Dark Munich Malt 30L",
+    "brand": "Briess"
+  },
+  {
+    "name": "Distillers Malt",
+    "brand": "Briess"
+  },
+  {
+    "name": "Extra Special Malt",
+    "brand": "Briess"
+  },
+  {
+    "name": "Full Pint Brewers Malt",
+    "brand": "Briess"
+  },
+  {
+    "name": "Goldpils Vienna Malt",
+    "brand": "Briess"
+  },
+  {
+    "name": "Mesquite Smoked Malt",
+    "brand": "Briess"
+  },
+  {
+    "name": "Midnight Wheat Malt",
+    "brand": "Briess"
+  },
+  {
+    "name": "Organic Black Malt",
+    "brand": "Briess"
+  },
+  {
+    "name": "Organic Bonlander Munich Malt 10L",
+    "brand": "Briess"
+  },
+  {
+    "name": "Organic Brewers Malt",
+    "brand": "Briess"
+  },
+  {
+    "name": "Organic Caramel Malt - 120L",
+    "brand": "Briess"
+  },
+  {
+    "name": "Organic Caramel Malt - 20L",
+    "brand": "Briess"
+  },
+  {
+    "name": "Organic Caramel Malt - 60L",
+    "brand": "Briess"
+  },
+  {
+    "name": "Organic Carapils Malt",
+    "brand": "Briess"
+  },
+  {
+    "name": "Organic Chocolate Malt",
+    "brand": "Briess"
+  },
+  {
+    "name": "Organic Roasted Barley",
+    "brand": "Briess"
+  },
+  {
+    "name": "Pale Ale Malt 2-Row",
+    "brand": "Briess"
+  },
+  {
+    "name": "Pilsen Malt 2-Row",
+    "brand": "Briess"
+  },
+  {
+    "name": "Red Wheat Raw",
+    "brand": "Briess"
+  },
+  {
+    "name": "Roasted Barley",
+    "brand": "Briess"
+  },
+  {
+    "name": "Rye Malt",
+    "brand": "Briess"
+  },
+  {
+    "name": "Rye Raw",
+    "brand": "Briess"
+  },
+  {
+    "name": "Special Roast",
+    "brand": "Briess"
+  },
+  {
+    "name": "Synergy Select Pilsen Malt",
+    "brand": "Briess"
+  },
+  {
+    "name": "Victory Malt",
+    "brand": "Briess"
+  },
+  {
+    "name": "Wheat Malt, Red",
+    "brand": "Briess"
+  },
+  {
+    "name": "Wheat Malt, White",
+    "brand": "Briess"
+  },
+  {
+    "name": "White Wheat Raw",
+    "brand": "Briess"
+  },
+  {
+    "name": "Perla Negra",
+    "brand": "BSG"
+  },
+  {
+    "name": "BOURBON MALT",
+    "brand": "Canada Malting"
+  },
+  {
+    "name": "Century Rye",
+    "brand": "Canada Malting"
+  },
+  {
+    "name": "CMC 2-ROW MALT",
+    "brand": "Canada Malting"
+  },
+  {
+    "name": "CMC 6-ROW MALT",
+    "brand": "Canada Malting"
+  },
+  {
+    "name": "HERITAGE SELECT MALT",
+    "brand": "Canada Malting"
+  },
+  {
+    "name": "MARITIME MALT",
+    "brand": "Canada Malting"
+  },
+  {
+    "name": "MUNICH MALT",
+    "brand": "Canada Malting"
+  },
+  {
+    "name": "NEW ENGLANDER MALT",
+    "brand": "Canada Malting"
+  },
+  {
+    "name": "OAT MALT",
+    "brand": "Canada Malting"
+  },
+  {
+    "name": "ONTARIO SELECT MALT",
+    "brand": "Canada Malting"
+  },
+  {
+    "name": "ORGANIC 2-ROW MALT",
+    "brand": "Canada Malting"
+  },
+  {
+    "name": "POT STILL MALT",
+    "brand": "Canada Malting"
+  },
+  {
+    "name": "QU\u00c9B\u00c9COISE MALT",
+    "brand": "Canada Malting"
+  },
+  {
+    "name": "SUPERIOR PALE ALE MALT",
+    "brand": "Canada Malting"
+  },
+  {
+    "name": "SUPERIOR PILSEN MALT",
+    "brand": "Canada Malting"
+  },
+  {
+    "name": "WHITE WHEAT MALT",
+    "brand": "Canada Malting"
+  },
+  {
+    "name": "Amber",
+    "brand": "Castle Malting"
+  },
+  {
+    "name": "Ch\u00e2teau Abbey",
+    "brand": "Castle Malting"
+  },
+  {
+    "name": "Ch\u00e2teau Acid (Malta Acida)",
+    "brand": "Castle Malting"
+  },
+  {
+    "name": "Ch\u00e2teau Arome",
+    "brand": "Castle Malting"
+  },
+  {
+    "name": "Ch\u00e2teau Biscuit",
+    "brand": "Castle Malting"
+  },
+  {
+    "name": "Ch\u00e2teau Black",
+    "brand": "Castle Malting"
+  },
+  {
+    "name": "Ch\u00e2teau Cafe",
+    "brand": "Castle Malting"
+  },
+  {
+    "name": "Ch\u00e2teau Cafe Light",
+    "brand": "Castle Malting"
+  },
+  {
+    "name": "Ch\u00e2teau Cara Blond",
+    "brand": "Castle Malting"
+  },
+  {
+    "name": "Ch\u00e2teau Cara Clair",
+    "brand": "Castle Malting"
+  },
+  {
+    "name": "Ch\u00e2teau Cara Gold",
+    "brand": "Castle Malting"
+  },
+  {
+    "name": "Ch\u00e2teau Cara Ruby",
+    "brand": "Castle Malting"
+  },
+  {
+    "name": "Ch\u00e2teau Chocolat",
+    "brand": "Castle Malting"
+  },
+  {
+    "name": "Ch\u00e2teau Crystal",
+    "brand": "Castle Malting"
+  },
+  {
+    "name": "Chateau Diastatic",
+    "brand": "Castle Malting"
+  },
+  {
+    "name": "Ch\u00e2teau Melano",
+    "brand": "Castle Malting"
+  },
+  {
+    "name": "Ch\u00e2teau Monastique",
+    "brand": "Castle Malting"
+  },
+  {
+    "name": "Ch\u00e2teau Munich",
+    "brand": "Castle Malting"
+  },
+  {
+    "name": "Ch\u00e2teau Munich Light",
+    "brand": "Castle Malting"
+  },
+  {
+    "name": "Ch\u00e2teau Pale Ale",
+    "brand": "Castle Malting"
+  },
+  {
+    "name": "Ch\u00e2teau Pilsen 2RS",
+    "brand": "Castle Malting"
+  },
+  {
+    "name": "Ch\u00e2teau Roasted Barley",
+    "brand": "Castle Malting"
+  },
+  {
+    "name": "Ch\u00e2teau Rye Malt (Malta De Centeno)",
+    "brand": "Castle Malting"
+  },
+  {
+    "name": "Ch\u00e2teau Smoked (Malta Ahumada)",
+    "brand": "Castle Malting"
+  },
+  {
+    "name": "Ch\u00e2teau Special Belgium",
+    "brand": "Castle Malting"
+  },
+  {
+    "name": "Ch\u00e2teau Vienna",
+    "brand": "Castle Malting"
+  },
+  {
+    "name": "Ch\u00e2teau Wheat Blanc",
+    "brand": "Castle Malting"
+  },
+  {
+    "name": "Ch\u00e2teau Whiskey Light",
+    "brand": "Castle Malting"
+  },
+  {
+    "name": "Pale Malt",
+    "brand": "Coopers"
+  },
+  {
+    "name": "Premium Pale Malt",
+    "brand": "Coopers"
+  },
+  {
+    "name": "Chocolate Malt",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Amber",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Best Ale",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Black",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Brown Malt",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Cara Gold malt",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Caramalt",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Caramalt 15L",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Chevallier Heritage Malt",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Clear Choice Malt",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Crystal 60L",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Crystal Dark - 77L",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Crystal Extra Dark - 120L",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Crystal Light - 45L",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Dark Munich",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Dextrin Malt",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Europils Malt",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Extra Pale Maris Otter",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Finest Maris Otter",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Gleneagles Premium Peated Malt",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Munich Malt",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "No.19 Floor Malt Maris Otter",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Organic Extra Pale Malt",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Pale Ale",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Pale Chocolate",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Pale Wheat Malt",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Roasted Barley",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Rye Malt",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Torrefied Wheat",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Torrified Wheat",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Vienna Malt",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Wheat Malt",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Colonial Pilsner",
+    "brand": "Deer Creek"
+  },
+  {
+    "name": "Double Dutch",
+    "brand": "Deer Creek"
+  },
+  {
+    "name": "Dutch",
+    "brand": "Deer Creek"
+  },
+  {
+    "name": "First Crack (Melanoidin)",
+    "brand": "Deer Creek"
+  },
+  {
+    "name": "Keystone Pale",
+    "brand": "Deer Creek"
+  },
+  {
+    "name": "Pale Rye",
+    "brand": "Deer Creek"
+  },
+  {
+    "name": "Pale Spelt",
+    "brand": "Deer Creek"
+  },
+  {
+    "name": "Pale Triticale",
+    "brand": "Deer Creek"
+  },
+  {
+    "name": "Pale Wheat",
+    "brand": "Deer Creek"
+  },
+  {
+    "name": "Sweet Liberty",
+    "brand": "Deer Creek"
+  },
+  {
+    "name": "Twilight Wheat",
+    "brand": "Deer Creek"
+  },
+  {
+    "name": "Biscuit",
+    "brand": "Dingemans"
+  },
+  {
+    "name": "Aromatic Malt",
+    "brand": "Dingemans"
+  },
+  {
+    "name": "Cara 120 MD",
+    "brand": "Dingemans"
+  },
+  {
+    "name": "Cara 20 ",
+    "brand": "Dingemans"
+  },
+  {
+    "name": "Cara 45 ",
+    "brand": "Dingemans"
+  },
+  {
+    "name": "Cara 8",
+    "brand": "Dingemans"
+  },
+  {
+    "name": "Chocolate - mroost 1400",
+    "brand": "Dingemans"
+  },
+  {
+    "name": "De-bittered Black Malt",
+    "brand": "Dingemans"
+  },
+  {
+    "name": "Debittered Black - mroost 1400",
+    "brand": "Dingemans"
+  },
+  {
+    "name": "Munich MD",
+    "brand": "Dingemans"
+  },
+  {
+    "name": "Pale Ale ",
+    "brand": "Dingemans"
+  },
+  {
+    "name": "Pilsen",
+    "brand": "Dingemans"
+  },
+  {
+    "name": "Special B",
+    "brand": "Dingemans"
+  },
+  {
+    "name": "Wheat Malt",
+    "brand": "Dingemans"
+  },
+  {
+    "name": "Biscuit Rice Malt",
+    "brand": "Eckert Malting"
+  },
+  {
+    "name": "Crystal Rice Malt",
+    "brand": "Eckert Malting"
+  },
+  {
+    "name": "Pale Rice Malt",
+    "brand": "Eckert Malting"
+  },
+  {
+    "name": "Aromatic Malt",
+    "brand": "Franco-Belges"
+  },
+  {
+    "name": "Caramel Munich 60",
+    "brand": "Franco-Belges"
+  },
+  {
+    "name": "Caramel Munich 80",
+    "brand": "Franco-Belges"
+  },
+  {
+    "name": "CaraVienna",
+    "brand": "Franco-Belges"
+  },
+  {
+    "name": "Kiln Amber (Biscuit)",
+    "brand": "Franco-Belges"
+  },
+  {
+    "name": "Kiln Coffee",
+    "brand": "Franco-Belges"
+  },
+  {
+    "name": "Pilsen Malt",
+    "brand": "Franco-Belges"
+  },
+  {
+    "name": "Special Aromatic",
+    "brand": "Franco-Belges"
+  },
+  {
+    "name": "ESB Pale Malt",
+    "brand": "Gambrinus"
+  },
+  {
+    "name": "Honey Malt",
+    "brand": "Gambrinus"
+  },
+  {
+    "name": "Munich - Light 10L",
+    "brand": "Gambrinus"
+  },
+  {
+    "name": "Munich Dark",
+    "brand": "Gambrinus"
+  },
+  {
+    "name": "Pale Malt",
+    "brand": "Gambrinus"
+  },
+  {
+    "name": "Pilsner Malt",
+    "brand": "Gambrinus"
+  },
+  {
+    "name": "Wheat Malt",
+    "brand": "Gambrinus"
+  },
+  {
+    "name": "American Ale Malt",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Aurora Malt",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Big O, Malted Oats",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Chocolate Malt",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Crystal Rye Malt",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Dark Crystal Malt",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Distillers Malt",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "German Pilsner Malt",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Gladiator Malt",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Harraways Rolled Barley",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Lager Light",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Light Crystal Malt",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Manuka Smoked Malt",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Medium Crystal Malt",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Munich Malt",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Organic Pilsner",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Pilsner Malt",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Roasted Wheat",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Rye Malt",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Vienna Malt",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Wheat Malt",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Biscuit Malt",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Brown Malt",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Chit Malt",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Chocolate Rye Malt",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Dark Chocolate Malt",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Flaked Spelt",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Light Chocolate Malt",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Raw Barley",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Raw Wheat",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Red Back Malt",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Red Back Wheat",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Roast Barley",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Shepherds Delight Malt",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Sour Grapes Malt",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Supernova Malt",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Toffee Malt",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Flaked White Wheat",
+    "brand": "Grain Millers"
+  },
+  {
+    "name": "Crystal 40 Malt",
+    "brand": "Great Western "
+  },
+  {
+    "name": "Brumalt",
+    "brand": "Great Western "
+  },
+  {
+    "name": "California Select 2-Row Malt",
+    "brand": "Great Western "
+  },
+  {
+    "name": "DextraPils",
+    "brand": "Great Western "
+  },
+  {
+    "name": "Domestic 2-Row",
+    "brand": "Great Western "
+  },
+  {
+    "name": "Northwest Pale Ale Malt",
+    "brand": "Great Western "
+  },
+  {
+    "name": "Organic White Wheat",
+    "brand": "Great Western "
+  },
+  {
+    "name": "Pale High Color",
+    "brand": "Great Western "
+  },
+  {
+    "name": "Premium 2-Row",
+    "brand": "Great Western "
+  },
+  {
+    "name": "Pure Idaho Pilsen",
+    "brand": "Great Western "
+  },
+  {
+    "name": "Superior Pilsen (1.6 \u00b0L)",
+    "brand": "Great Western "
+  },
+  {
+    "name": "Vienna",
+    "brand": "Great Western "
+  },
+  {
+    "name": "White Wheat",
+    "brand": "Great Western "
+  },
+  {
+    "name": "Organic Premium 2-Row",
+    "brand": "Great Western "
+  },
+  {
+    "name": "American Roasted Millet Malt",
+    "brand": "Grouse Malt House"
+  },
+  {
+    "name": "Buckwheat Malt",
+    "brand": "Grouse Malt House"
+  },
+  {
+    "name": "CaraMillet Malt",
+    "brand": "Grouse Malt House"
+  },
+  {
+    "name": "Chocolate Roasted Millet Malt",
+    "brand": "Grouse Malt House"
+  },
+  {
+    "name": "Crystal Millet Malt",
+    "brand": "Grouse Malt House"
+  },
+  {
+    "name": "Dark Millet Malt",
+    "brand": "Grouse Malt House"
+  },
+  {
+    "name": "French Roast",
+    "brand": "Grouse Malt House"
+  },
+  {
+    "name": "Goldfinch Millet Malt",
+    "brand": "Grouse Malt House"
+  },
+  {
+    "name": "Munich Millet Malt",
+    "brand": "Grouse Malt House"
+  },
+  {
+    "name": "Organic Roasted Buckwheat Malt",
+    "brand": "Grouse Malt House"
+  },
+  {
+    "name": "Pale Millet Malt",
+    "brand": "Grouse Malt House"
+  },
+  {
+    "name": "Roasted CaraMillet Malt",
+    "brand": "Grouse Malt House"
+  },
+  {
+    "name": "Vienna Millet Malt",
+    "brand": "Grouse Malt House"
+  },
+  {
+    "name": "Pale",
+    "brand": "Haus Malts"
+  },
+  {
+    "name": "Triticale",
+    "brand": "Haus Malts"
+  },
+  {
+    "name": "Munich Malt",
+    "brand": "House of Malt"
+  },
+  {
+    "name": "Pilsner Malt",
+    "brand": "House of Malt"
+  },
+  {
+    "name": "Pale 2-Row",
+    "brand": "Hudson Valley Malt"
+  },
+  {
+    "name": "Aroma Malt",
+    "brand": "Ireks"
+  },
+  {
+    "name": "Black Malt",
+    "brand": "Ireks"
+  },
+  {
+    "name": "Chocolate",
+    "brand": "Ireks"
+  },
+  {
+    "name": "Crystal Maple",
+    "brand": "Ireks"
+  },
+  {
+    "name": "Crystal Oak",
+    "brand": "Ireks"
+  },
+  {
+    "name": "Crystal Teak",
+    "brand": "Ireks"
+  },
+  {
+    "name": "Munich Malt",
+    "brand": "Ireks"
+  },
+  {
+    "name": "Pale Ale Malt",
+    "brand": "Ireks"
+  },
+  {
+    "name": "Pilsner Malt",
+    "brand": "Ireks"
+  },
+  {
+    "name": "Vienna",
+    "brand": "Ireks"
+  },
+  {
+    "name": "Wheat Malt Black",
+    "brand": "Ireks"
+  },
+  {
+    "name": "Wheat Malt Dark",
+    "brand": "Ireks"
+  },
+  {
+    "name": "Wheat Malt Light",
+    "brand": "Ireks"
+  },
+  {
+    "name": "Ale Malt",
+    "brand": "Joe White"
+  },
+  {
+    "name": "Amber",
+    "brand": "Joe White"
+  },
+  {
+    "name": "Caramalt",
+    "brand": "Joe White"
+  },
+  {
+    "name": "Chocolate Malt",
+    "brand": "Joe White"
+  },
+  {
+    "name": "Dark Crystal Malt",
+    "brand": "Joe White"
+  },
+  {
+    "name": "Dark Toast",
+    "brand": "Joe White"
+  },
+  {
+    "name": "Extra Dark Crystal",
+    "brand": "Joe White"
+  },
+  {
+    "name": "Light Crystal Malt",
+    "brand": "Joe White"
+  },
+  {
+    "name": "Light Munich",
+    "brand": "Joe White"
+  },
+  {
+    "name": "Light Roast",
+    "brand": "Joe White"
+  },
+  {
+    "name": "Medium Crystal",
+    "brand": "Joe White"
+  },
+  {
+    "name": "Pale Malt",
+    "brand": "Joe White"
+  },
+  {
+    "name": "Raw Wheat",
+    "brand": "Joe White"
+  },
+  {
+    "name": "Roasted Barley",
+    "brand": "Joe White"
+  },
+  {
+    "name": "Roasted Wheat Malt",
+    "brand": "Joe White"
+  },
+  {
+    "name": "Vienna Malt",
+    "brand": "Joe White"
+  },
+  {
+    "name": "Wheat Malt",
+    "brand": "Joe White"
+  },
+  {
+    "name": "99 Triticale Pale",
+    "brand": "LINC Malt"
+  },
+  {
+    "name": "99 Triticale Munich",
+    "brand": "LINC Malt"
+  },
+  {
+    "name": "99 Triticale Pilsner",
+    "brand": "LINC Malt"
+  },
+  {
+    "name": "Baroness Crystal 60L",
+    "brand": "LINC Malt"
+  },
+  {
+    "name": "Baronesse Caramel/Dextrine",
+    "brand": "LINC Malt"
+  },
+  {
+    "name": "Baronesse Crystal 120L",
+    "brand": "LINC Malt"
+  },
+  {
+    "name": "Baronesse Dark Munich",
+    "brand": "LINC Malt"
+  },
+  {
+    "name": "Baronesse English Pale",
+    "brand": "LINC Malt"
+  },
+  {
+    "name": "Baronesse Pale",
+    "brand": "LINC Malt"
+  },
+  {
+    "name": "Baronesse Vienna",
+    "brand": "LINC Malt"
+  },
+  {
+    "name": "Baronnesse c40",
+    "brand": "LINC Malt"
+  },
+  {
+    "name": "Baronnesse Light Munich",
+    "brand": "LINC Malt"
+  },
+  {
+    "name": "Baronnesse Pilsner",
+    "brand": "LINC Malt"
+  },
+  {
+    "name": "Cashup White Wheat Pale",
+    "brand": "LINC Malt"
+  },
+  {
+    "name": "Copeland English Pale",
+    "brand": "LINC Malt"
+  },
+  {
+    "name": "Copeland Munich",
+    "brand": "LINC Malt"
+  },
+  {
+    "name": "Francin Pilsner",
+    "brand": "LINC Malt"
+  },
+  {
+    "name": "Gazelle Rye Pale",
+    "brand": "LINC Malt"
+  },
+  {
+    "name": "Lyon English Pale",
+    "brand": "LINC Malt"
+  },
+  {
+    "name": "Lyon Light Munich",
+    "brand": "LINC Malt"
+  },
+  {
+    "name": "Lyon Pale",
+    "brand": "LINC Malt"
+  },
+  {
+    "name": "Lyon Pilsner, Organic",
+    "brand": "LINC Malt"
+  },
+  {
+    "name": "Purple Egyptian Pale",
+    "brand": "LINC Malt"
+  },
+  {
+    "name": "Red Russian Wheat Pale",
+    "brand": "LINC Malt"
+  },
+  {
+    "name": "Scots Bere Pale",
+    "brand": "LINC Malt"
+  },
+  {
+    "name": "Scots Bere Pilsner",
+    "brand": "LINC Malt"
+  },
+  {
+    "name": "Sonora White Wheat Pale",
+    "brand": "LINC Malt"
+  },
+  {
+    "name": "Spelt Pale",
+    "brand": "LINC Malt"
+  },
+  {
+    "name": "Caramel 60",
+    "brand": "Makers Malt"
+  },
+  {
+    "name": "Premium Pale Malt - 2-row",
+    "brand": "Makers Malt"
+  },
+  {
+    "name": "Caramelo 120",
+    "brand": "Maltear"
+  },
+  {
+    "name": "Caramelo 60",
+    "brand": "Maltear"
+  },
+  {
+    "name": "Carapils",
+    "brand": "Maltear"
+  },
+  {
+    "name": "Chocolate",
+    "brand": "Maltear"
+  },
+  {
+    "name": "Negra",
+    "brand": "Maltear"
+  },
+  {
+    "name": "Pilsener",
+    "brand": "Maltear"
+  },
+  {
+    "name": "Red Wheat",
+    "brand": "Malteurop"
+  },
+  {
+    "name": "Gateway",
+    "brand": "Mecca Grade"
+  },
+  {
+    "name": "Lamonta (American Pale)",
+    "brand": "Mecca Grade"
+  },
+  {
+    "name": "Metolius [Munich Style]",
+    "brand": "Mecca Grade"
+  },
+  {
+    "name": "Opal 22",
+    "brand": "Mecca Grade"
+  },
+  {
+    "name": "Opal 44",
+    "brand": "Mecca Grade"
+  },
+  {
+    "name": "Pale 2-Row",
+    "brand": "Mecca Grade"
+  },
+  {
+    "name": "Pelton",
+    "brand": "Mecca Grade"
+  },
+  {
+    "name": "Rimrock (Vienna-style Spring Rye)",
+    "brand": "Mecca Grade"
+  },
+  {
+    "name": "Shaniko (White Winter Wheat)",
+    "brand": "Mecca Grade"
+  },
+  {
+    "name": "Vanora (Vienna-style)",
+    "brand": "Mecca Grade"
+  },
+  {
+    "name": "Wickiup (Hard Red Spring Wheat)",
+    "brand": "Mecca Grade"
+  },
+  {
+    "name": "Cara Malt",
+    "brand": "Muntons"
+  },
+  {
+    "name": "Crystal 60",
+    "brand": "Muntons"
+  },
+  {
+    "name": "Dark Crystal",
+    "brand": "Muntons"
+  },
+  {
+    "name": "Maris Otter",
+    "brand": "Muntons"
+  },
+  {
+    "name": "Pale Planet",
+    "brand": "Muntons"
+  },
+  {
+    "name": "Canadian 2-Row Malt",
+    "brand": "OiO"
+  },
+  {
+    "name": "Black Pearl",
+    "brand": "Patagonia"
+  },
+  {
+    "name": "Caramel 140L",
+    "brand": "Patagonia"
+  },
+  {
+    "name": "Caramel 190L",
+    "brand": "Patagonia"
+  },
+  {
+    "name": "Caramel 55L",
+    "brand": "Patagonia"
+  },
+  {
+    "name": "Caramel 90L",
+    "brand": "Patagonia"
+  },
+  {
+    "name": "Extra Pale Malt",
+    "brand": "Patagonia"
+  },
+  {
+    "name": "Patagonia Munich",
+    "brand": "Patagonia"
+  },
+  {
+    "name": "Patagonia Pale ale",
+    "brand": "Patagonia"
+  },
+  {
+    "name": "Patagonia Vienna",
+    "brand": "Patagonia"
+  },
+  {
+    "name": "Base Malt",
+    "brand": "Proximity"
+  },
+  {
+    "name": "Biscuit Roasted 20",
+    "brand": "Proximity"
+  },
+  {
+    "name": "Black Malt",
+    "brand": "Proximity"
+  },
+  {
+    "name": "Chocolate Malt",
+    "brand": "Proximity"
+  },
+  {
+    "name": "Crystal 15",
+    "brand": "Proximity"
+  },
+  {
+    "name": "Crystal 60",
+    "brand": "Proximity"
+  },
+  {
+    "name": "Crystal 80",
+    "brand": "Proximity"
+  },
+  {
+    "name": "Munich Malt",
+    "brand": "Proximity"
+  },
+  {
+    "name": "Pale Ale Malt",
+    "brand": "Proximity"
+  },
+  {
+    "name": "Pale Chocolate",
+    "brand": "Proximity"
+  },
+  {
+    "name": "Pilsen Malt",
+    "brand": "Proximity"
+  },
+  {
+    "name": "Prox Mild",
+    "brand": "Proximity"
+  },
+  {
+    "name": "Roasted Barley",
+    "brand": "Proximity"
+  },
+  {
+    "name": "Super Extract Base",
+    "brand": "Proximity"
+  },
+  {
+    "name": "High DP Distillers Malt",
+    "brand": "Rahr"
+  },
+  {
+    "name": "Kilned Caramel 30L",
+    "brand": "Rahr"
+  },
+  {
+    "name": "Kilned Caramel 47L",
+    "brand": "Rahr"
+  },
+  {
+    "name": "Kilned Caramel 80L",
+    "brand": "Rahr"
+  },
+  {
+    "name": "Old World Pilsner",
+    "brand": "Rahr"
+  },
+  {
+    "name": "Pale Ale",
+    "brand": "Rahr"
+  },
+  {
+    "name": "Premium Pilsner",
+    "brand": "Rahr"
+  },
+  {
+    "name": "Red Wheat",
+    "brand": "Rahr"
+  },
+  {
+    "name": "Standard 2-Row",
+    "brand": "Rahr"
+  },
+  {
+    "name": "Standard 6-Row",
+    "brand": "Rahr"
+  },
+  {
+    "name": "Unmalted Wheat",
+    "brand": "Rahr"
+  },
+  {
+    "name": "White Wheat",
+    "brand": "Rahr"
+  },
+  {
+    "name": "Appalachian Wheat",
+    "brand": "Riverbend Malt"
+  },
+  {
+    "name": "Base Camp Extra Pale",
+    "brand": "Riverbend Malt"
+  },
+  {
+    "name": "Dark Munich",
+    "brand": "Riverbend Malt"
+  },
+  {
+    "name": "Heritage",
+    "brand": "Riverbend Malt"
+  },
+  {
+    "name": "Melanoidin Malt",
+    "brand": "Riverbend Malt"
+  },
+  {
+    "name": "Munich - Light 10L",
+    "brand": "Riverbend Malt"
+  },
+  {
+    "name": "Pale Malt",
+    "brand": "Riverbend Malt"
+  },
+  {
+    "name": "Pilsner",
+    "brand": "Riverbend Malt"
+  },
+  {
+    "name": "Southern Select",
+    "brand": "Riverbend Malt"
+  },
+  {
+    "name": "Vienna",
+    "brand": "Riverbend Malt"
+  },
+  {
+    "name": "Crystal 100",
+    "brand": "Root Shoot Malting"
+  },
+  {
+    "name": "Distiller's Malt",
+    "brand": "Root Shoot Malting"
+  },
+  {
+    "name": "Genie Honey",
+    "brand": "Root Shoot Malting"
+  },
+  {
+    "name": "Genie Munich",
+    "brand": "Root Shoot Malting"
+  },
+  {
+    "name": "Genie Pale 2-Row",
+    "brand": "Root Shoot Malting"
+  },
+  {
+    "name": "Genie Vienna ",
+    "brand": "Root Shoot Malting"
+  },
+  {
+    "name": "Malted Rye",
+    "brand": "Root Shoot Malting"
+  },
+  {
+    "name": "Metcalfe Pale Ale",
+    "brand": "Root Shoot Malting"
+  },
+  {
+    "name": "Odyssey Munich",
+    "brand": "Root Shoot Malting"
+  },
+  {
+    "name": "Pale Ale Malt",
+    "brand": "Root Shoot Malting"
+  },
+  {
+    "name": "Pilsner",
+    "brand": "Root Shoot Malting"
+  },
+  {
+    "name": "White Wheat",
+    "brand": "Root Shoot Malting"
+  },
+  {
+    "name": "Sekado Czech  2-Row",
+    "brand": "Sekado"
+  },
+  {
+    "name": "Munich",
+    "brand": "Sekado"
+  },
+  {
+    "name": "Amber Malt",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Aromatic Malt",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Best Pale Ale",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Black Malt",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Brown Malt",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "CaraMalt",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "CaraMalt Light",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Chocolate Malt",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Crisp Amber Malt",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Crystal Dark",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Crystal Light ",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Crystal Medium",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Crystal T50",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Dextrin Malt",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "DRC",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Extra Pale Ale Malt",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Finest Lager Malt",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Finest Pale Ale Golden Promise",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Finest Pale Ale Maris Otter",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Golden Naked Oats",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Heritage Crystal",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Imperial Malt",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Light Crystal",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Low Colour Maris Otter",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Maris Otter Extra Pale",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Maris Otter pale",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Munich Malt",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Oat Malt",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Pale 2-Row",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Premium English Caramalt",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Red Rye Crystal",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Roasted Barley",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Vienna",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Wheat",
+    "brand": "Simpsons"
+  },
+  {
+    "name": "Copeland Pale",
+    "brand": "Skagit Valley Malting"
+  },
+  {
+    "name": "CaraMunich",
+    "brand": "The Swaen"
+  },
+  {
+    "name": "Ale",
+    "brand": "The Swaen"
+  },
+  {
+    "name": "BlackSwaen Barley",
+    "brand": "The Swaen"
+  },
+  {
+    "name": "BlackSwaen Chocolate B",
+    "brand": "The Swaen"
+  },
+  {
+    "name": "GoldSwaen Brown Supreme",
+    "brand": "The Swaen"
+  },
+  {
+    "name": "Goldswaen Hell",
+    "brand": "The Swaen"
+  },
+  {
+    "name": "Swaen Ale",
+    "brand": "The Swaen"
+  },
+  {
+    "name": "Swaen Pilsner",
+    "brand": "The Swaen"
+  },
+  {
+    "name": "Vienna",
+    "brand": "The Swaen"
+  },
+  {
+    "name": "WhiteSwaen Classic",
+    "brand": "The Swaen"
+  },
+  {
+    "name": "PlatinumSwaen Salty Caramel Malt",
+    "brand": "The Swaen"
+  },
+  {
+    "name": " Halcyon Pale Ale ",
+    "brand": "Thomas Fawcett"
+  },
+  {
+    "name": "Amber Malt",
+    "brand": "Thomas Fawcett"
+  },
+  {
+    "name": "Black Malt",
+    "brand": "Thomas Fawcett"
+  },
+  {
+    "name": "Brown",
+    "brand": "Thomas Fawcett"
+  },
+  {
+    "name": "Caramalt",
+    "brand": "Thomas Fawcett"
+  },
+  {
+    "name": "Chocolate Malt",
+    "brand": "Thomas Fawcett"
+  },
+  {
+    "name": "Crystal Malt",
+    "brand": "Thomas Fawcett"
+  },
+  {
+    "name": "Crystal Malt I",
+    "brand": "Thomas Fawcett"
+  },
+  {
+    "name": "Crystal Malt II",
+    "brand": "Thomas Fawcett"
+  },
+  {
+    "name": "Crystal Rye Malt",
+    "brand": "Thomas Fawcett"
+  },
+  {
+    "name": "Dark Crystal Malt II",
+    "brand": "Thomas Fawcett"
+  },
+  {
+    "name": "English Pearl Pale Ale Malt",
+    "brand": "Thomas Fawcett"
+  },
+  {
+    "name": "Golden Promise Pale Ale Malt",
+    "brand": "Thomas Fawcett"
+  },
+  {
+    "name": "Maris Otter Low Colour Malt",
+    "brand": "Thomas Fawcett"
+  },
+  {
+    "name": "Maris Otter Pale Ale Malt",
+    "brand": "Thomas Fawcett"
+  },
+  {
+    "name": "Mild",
+    "brand": "Thomas Fawcett"
+  },
+  {
+    "name": "Pale Chocolate Malt",
+    "brand": "Thomas Fawcett"
+  },
+  {
+    "name": "Pale Crystal Malt",
+    "brand": "Thomas Fawcett"
+  },
+  {
+    "name": "Pearl Pale Ale Malt",
+    "brand": "Thomas Fawcett"
+  },
+  {
+    "name": "Roasted Barley",
+    "brand": "Thomas Fawcett"
+  },
+  {
+    "name": "Roasted Rye",
+    "brand": "Thomas Fawcett"
+  },
+  {
+    "name": "Roasted Wheat",
+    "brand": "Thomas Fawcett"
+  },
+  {
+    "name": "Blue Ballad",
+    "brand": "Troubador Malting"
+  },
+  {
+    "name": "Encore 50L",
+    "brand": "Troubador Malting"
+  },
+  {
+    "name": "Moonlight Serenade",
+    "brand": "Troubador Malting"
+  },
+  {
+    "name": "Serenade",
+    "brand": "Troubador Malting"
+  },
+  {
+    "name": "Ballad",
+    "brand": "Troubador Malting"
+  },
+  {
+    "name": "chit malt",
+    "brand": "Valley Malt"
+  },
+  {
+    "name": "Colorado Crystal 10",
+    "brand": "Viking"
+  },
+  {
+    "name": "Black Malt",
+    "brand": "Viking"
+  },
+  {
+    "name": "Cara Plus 10",
+    "brand": "Viking"
+  },
+  {
+    "name": "Cara Plus 150",
+    "brand": "Viking"
+  },
+  {
+    "name": "Caramel 200 Malt",
+    "brand": "Viking"
+  },
+  {
+    "name": "Caramel 30 Malt",
+    "brand": "Viking"
+  },
+  {
+    "name": "Caramel 50 Malt(20L)",
+    "brand": "Viking"
+  },
+  {
+    "name": "Caramel Aromatic 68L",
+    "brand": "Viking"
+  },
+  {
+    "name": "Caramel Pale",
+    "brand": "Viking"
+  },
+  {
+    "name": "Chocolate Light",
+    "brand": "Viking"
+  },
+  {
+    "name": "Cookie Malt",
+    "brand": "Viking"
+  },
+  {
+    "name": "Crystal 100",
+    "brand": "Viking"
+  },
+  {
+    "name": "Crystal 150",
+    "brand": "Viking"
+  },
+  {
+    "name": "Crystal 300",
+    "brand": "Viking"
+  },
+  {
+    "name": "Dark Ale Malt",
+    "brand": "Viking"
+  },
+  {
+    "name": "Dextrine Malt",
+    "brand": "Viking"
+  },
+  {
+    "name": "Extra pale malt",
+    "brand": "Viking"
+  },
+  {
+    "name": "Golden Ale Malt",
+    "brand": "Viking"
+  },
+  {
+    "name": "Munich",
+    "brand": "Viking"
+  },
+  {
+    "name": "Munich Dark Malt",
+    "brand": "Viking"
+  },
+  {
+    "name": "Munich Light",
+    "brand": "Viking"
+  },
+  {
+    "name": "Oak Smoked Wheat",
+    "brand": "Viking"
+  },
+  {
+    "name": "Pale Ale Malt",
+    "brand": "Viking"
+  },
+  {
+    "name": "Pilsner Malt",
+    "brand": "Viking"
+  },
+  {
+    "name": "Pilsner Organic",
+    "brand": "Viking"
+  },
+  {
+    "name": "Pilsner Zero Malt",
+    "brand": "Viking"
+  },
+  {
+    "name": "Red Ale Malt",
+    "brand": "Viking"
+  },
+  {
+    "name": "Roasted Barley",
+    "brand": "Viking"
+  },
+  {
+    "name": "Roasted Wheat",
+    "brand": "Viking"
+  },
+  {
+    "name": "Sahtimallas",
+    "brand": "Viking"
+  },
+  {
+    "name": "Vienna",
+    "brand": "Viking"
+  },
+  {
+    "name": "Wheat Malt",
+    "brand": "Viking"
+  },
+  {
+    "name": "Roasted Rye",
+    "brand": "Viking"
+  },
+  {
+    "name": "Amber",
+    "brand": "Voyager Craft Malt"
+  },
+  {
+    "name": "Atlas Latrobe",
+    "brand": "Voyager Craft Malt"
+  },
+  {
+    "name": "Biscuit",
+    "brand": "Voyager Craft Malt"
+  },
+  {
+    "name": "Chocolate",
+    "brand": "Voyager Craft Malt"
+  },
+  {
+    "name": "Heritage Rye",
+    "brand": "Voyager Craft Malt"
+  },
+  {
+    "name": "Malted Oats Mitika",
+    "brand": "Voyager Craft Malt"
+  },
+  {
+    "name": "Munich Schooner",
+    "brand": "Voyager Craft Malt"
+  },
+  {
+    "name": "Pale Compass",
+    "brand": "Voyager Craft Malt"
+  },
+  {
+    "name": "Roast Barley",
+    "brand": "Voyager Craft Malt"
+  },
+  {
+    "name": "Sm40 Schooner",
+    "brand": "Voyager Craft Malt"
+  },
+  {
+    "name": "Triticale",
+    "brand": "Voyager Craft Malt"
+  },
+  {
+    "name": "Vienna Schooner",
+    "brand": "Voyager Craft Malt"
+  },
+  {
+    "name": "Voodoo Schooner",
+    "brand": "Voyager Craft Malt"
+  },
+  {
+    "name": "Winter Wheat Janz",
+    "brand": "Voyager Craft Malt"
+  },
+  {
+    "name": "Diastatic Barley",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Abbey Malt",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Acidulated",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Barke Munich Malt",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Barke Pilsner Malt",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Barke Vienna",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Beech Smoked Barley",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "BIOLAND Pilsner Malt (Organic)",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Bohemian Pilsner Malt",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "CaraAmber",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "CaraAroma",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "CARABELGE",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Carafa I",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Carafa III",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Carafa Special Type 1 ",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Carafa Special Type II",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Carafa Special Type II (415 L)",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Carafa Special Type III",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Carafoam",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Carahell",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Caramunich Type 1",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Caramunich Type 2",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Caramunich Type 3",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Carapils",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Chocolate Rye",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Chocolate wheat",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Chocolate Wheat",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Cologne Malt",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Dark Wheat Malt",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Extra Pale Premium Pilsner Malt",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Munich Dark ",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Munich Type I",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Munich Type II",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Oak Smoked Wheat Malt",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Pale Ale",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Pale Rye",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Pale Wheat",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Pilsner",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Roasted Barley",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Rye Malt",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Schill Cologne",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Special W",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Special W",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Vienna Malt",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Crystal 10L",
+    "brand": "Avangard"
+  },
+  {
+    "name": "Avena",
+    "brand": "BA Malt"
+  },
+  {
+    "name": "Corn Grits",
+    "brand": "Bob's Red MIll"
+  },
+  {
+    "name": "Flaked Oats",
+    "brand": "Bob's Red MIll"
+  },
+  {
+    "name": "Barley, Flaked",
+    "brand": "Briess"
+  },
+  {
+    "name": "Brewers Brown Rice Flakes",
+    "brand": "Briess"
+  },
+  {
+    "name": "Brewers Oat Flakes",
+    "brand": "Briess"
+  },
+  {
+    "name": "Brewers Red Wheat Flakes",
+    "brand": "Briess"
+  },
+  {
+    "name": "Brewers Rye Flakes",
+    "brand": "Briess"
+  },
+  {
+    "name": "Brewers Triticale Flakes",
+    "brand": "Briess"
+  },
+  {
+    "name": "Brewers Yellow Corn Flakes",
+    "brand": "Briess"
+  },
+  {
+    "name": "Rice Hulls",
+    "brand": "Briess"
+  },
+  {
+    "name": "Rice, Flaked",
+    "brand": "Briess"
+  },
+  {
+    "name": "Flaked White Wheat",
+    "brand": "BSG"
+  },
+  {
+    "name": "Chateau Oat Malt",
+    "brand": "Castle Malting"
+  },
+  {
+    "name": "Flaked Torredied Oats",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Flaked Torrefied Maize",
+    "brand": "Crisp Malting"
+  },
+  {
+    "name": "Harraway's Rolled Oats",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Harraways Flaked Wheat",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Flaked Oats",
+    "brand": "Grain Millers"
+  },
+  {
+    "name": "Rolled Oats",
+    "brand": "Grain Millers"
+  },
+  {
+    "name": "Flaked Quinoa",
+    "brand": "Grouse Malt House"
+  },
+  {
+    "name": "Organic Flaked Barley",
+    "brand": "Holland & Barrett"
+  },
+  {
+    "name": "Oat Malt",
+    "brand": "Muntons"
+  },
+  {
+    "name": "Saranac Special Dark Oats",
+    "brand": "New York Craft Malts"
+  },
+  {
+    "name": "Wildflower Honey",
+    "brand": "Northern Brewer"
+  },
+  {
+    "name": "Rice Hulls",
+    "brand": "OiO"
+  },
+  {
+    "name": "Vienna",
+    "brand": "Proximity"
+  },
+  {
+    "name": "Malted Oats",
+    "brand": "Proximity"
+  },
+  {
+    "name": "Malted Corn",
+    "brand": "Riverbend Malt"
+  },
+  {
+    "name": "Streaker Malted Oats",
+    "brand": "Riverbend Malt"
+  },
+  {
+    "name": "BlackSwaen Coffee Malt",
+    "brand": "The Swaen"
+  },
+  {
+    "name": "Coffee Malt",
+    "brand": "The Swaen"
+  },
+  {
+    "name": "Pale Schooner",
+    "brand": "Voyager Craft Malt"
+  },
+  {
+    "name": "Veloria Schooner",
+    "brand": "Voyager Craft Malt"
+  },
+  {
+    "name": "Carafa II",
+    "brand": "Weyermann"
+  },
+  {
+    "name": "Maiden Voyage",
+    "brand": "Admiral"
+  },
+  {
+    "name": "Organic Coconut Sugar",
+    "brand": "Bob's Red MIll"
+  },
+  {
+    "name": "Brewers Corn Syrup",
+    "brand": "Briess"
+  },
+  {
+    "name": "Dextrose",
+    "brand": "Briess"
+  },
+  {
+    "name": "Belgian Candi Syrup - Amber (40L)",
+    "brand": "Candi Syrup"
+  },
+  {
+    "name": "Belgian Candi Syrup - Blanc",
+    "brand": "Candi Syrup"
+  },
+  {
+    "name": "Belgian Candi Syrup - Brun Fonc\u00e9",
+    "brand": "Candi Syrup"
+  },
+  {
+    "name": "Belgian Candi Syrup - Brun L\u00e9ger",
+    "brand": "Candi Syrup"
+  },
+  {
+    "name": "Belgian Candi Syrup - Clear (0L)",
+    "brand": "Candi Syrup"
+  },
+  {
+    "name": "Belgian Candi Syrup - D-180",
+    "brand": "Candi Syrup"
+  },
+  {
+    "name": "Belgian Candi Syrup - D-240",
+    "brand": "Candi Syrup"
+  },
+  {
+    "name": "Belgian Candi Syrup - D-45",
+    "brand": "Candi Syrup"
+  },
+  {
+    "name": "Belgian Candi Syrup - D-90",
+    "brand": "Candi Syrup"
+  },
+  {
+    "name": "Belgian Candi Syrup - D2 (160L)",
+    "brand": "Candi Syrup"
+  },
+  {
+    "name": "Belgian Candi Syrup - Dark (80L)",
+    "brand": "Candi Syrup"
+  },
+  {
+    "name": "Belgian Candi Syrup - Golden (5L)",
+    "brand": "Candi Syrup"
+  },
+  {
+    "name": "Belgian Candi Syrup - Simplicity",
+    "brand": "Candi Syrup"
+  },
+  {
+    "name": "Cascade Beer Candi Syrup - Thai Ginger",
+    "brand": "Candi Syrup"
+  },
+  {
+    "name": "Brew Enhancer 1",
+    "brand": "Coopers"
+  },
+  {
+    "name": "Belgian Candi Sugar - Dark (275L)",
+    "brand": "Franco-Belges"
+  },
+  {
+    "name": "Fonterra - Lactose",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Maltodextrin",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Dextrose",
+    "brand": "Gladfield"
+  },
+  {
+    "name": "Blackstrap",
+    "brand": "Meridian"
+  },
+  {
+    "name": "Golden Syrup",
+    "brand": "Tate and Lyle"
+  }
+]
