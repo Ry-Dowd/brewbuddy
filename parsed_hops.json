@@ -1,0 +1,1814 @@
+[
+  {
+    "name": "Crystal",
+    "alpha": "3.8",
+    "description": null,
+    "brand": "47 Hops"
+  },
+  {
+    "name": "Huell Melon",
+    "alpha": "7.5",
+    "description": null,
+    "brand": "47 Hops"
+  },
+  {
+    "name": "Mandarina Bavaria",
+    "alpha": "10.7",
+    "description": null,
+    "brand": "47 Hops"
+  },
+  {
+    "name": "Saaz",
+    "alpha": "3.8",
+    "description": "",
+    "brand": "47 Hops"
+  },
+  {
+    "name": "Super Styrian",
+    "alpha": "8",
+    "description": null,
+    "brand": "47 Hops"
+  },
+  {
+    "name": "Amarillo",
+    "alpha": "7.7",
+    "description": null,
+    "brand": "Artisan"
+  },
+  {
+    "name": "Cascade",
+    "alpha": "6",
+    "description": null,
+    "brand": "Artisan"
+  },
+  {
+    "name": "Centennial",
+    "alpha": "9.7",
+    "description": null,
+    "brand": "Artisan"
+  },
+  {
+    "name": "Chinook",
+    "alpha": "11.6",
+    "description": null,
+    "brand": "Artisan"
+  },
+  {
+    "name": "Citra",
+    "alpha": "11.8",
+    "description": null,
+    "brand": "Artisan"
+  },
+  {
+    "name": "Columbus (CTZ)",
+    "alpha": "14.9",
+    "description": null,
+    "brand": "Artisan"
+  },
+  {
+    "name": "Idaho #7",
+    "alpha": "13.6",
+    "description": null,
+    "brand": "Artisan"
+  },
+  {
+    "name": "Kent Goldings",
+    "alpha": "5.1",
+    "description": null,
+    "brand": "Artisan"
+  },
+  {
+    "name": "Magnum",
+    "alpha": "9.9",
+    "description": "",
+    "brand": "Artisan"
+  },
+  {
+    "name": "Perle",
+    "alpha": "7.1",
+    "description": null,
+    "brand": "Artisan"
+  },
+  {
+    "name": "Simcoe",
+    "alpha": "13.5",
+    "description": null,
+    "brand": "Artisan"
+  },
+  {
+    "name": "Warrior",
+    "alpha": "16.7",
+    "description": null,
+    "brand": "Artisan"
+  },
+  {
+    "name": "Admiral",
+    "alpha": "14.5",
+    "description": "Bred at Wye to complement the variety Target, this variety matures about one week earlier and yields considerably better in terms of alpha acid per hectare. It grows vigorously, producing small compact cones, which pick well on the machine. Its tolerance to wilt is similar to Progress but the storage stability of its alpha is considerably better than Target.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Agnus",
+    "alpha": "11.5",
+    "description": "Ist name derives from the Czech hop breeder Ber\u00e1nek, which means Angus in Latin. Medium-tall stature regular cylindrical shape desired vine-red, 9-13 mm thick, fruitful rachides medium high, thin to medium dense deployment cone.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Ahtanum",
+    "alpha": "6",
+    "description": "Ahtanum is a cultivar named after the district in which it is grown, near Yakima. 75% of all hop varieties in the USA come from this region. Ahtanum has an appealing aroma with exceptionally floral notes. It is used for its aromatic properties and moderate bittering.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Amarillo",
+    "alpha": "9.5",
+    "description": "Newer variety characterized by mid to high alpha and low cohumulone content. Aroma reported to be similar to Cascade. Good resistance to powdery mildew. It is used for its aromatic qualities, as well as its bittering properties due to its lower cohumulone content.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Aramis",
+    "alpha": "8.1",
+    "description": "The most important aroma hop variety in the Alsace region is the traditional Strisselspalt. During a breeding program Aramis was established, to create a new variety with a similar aroma profile and polyphenol properties to Strisselspalt, but with increased and stable bitter potential. Aramis offers a more pronounced typical hop aroma with a more hop spicy and citrussy note. Medium alpha levels afford use for bittering a wide range of lager and ale styles including Helles, Pilsener and light lager, M\u00e4rzen, Oktoberfest and Bock. Will also suit Blond and Golden ales, Belgian Dubbel &amp; Tripel as well as Wheat beers.\r\nKEY FLAVORS\r\nMintLemon grassRoseRaspberryCaramel",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Ariana",
+    "alpha": "11.5",
+    "description": "Developed at the Hop Research Center in Huell, this variety was named 2010/72/20 as a trial variety. Bred only six years ago, this hop&#039;s mother is from the famous Herkules bitter variety. Ariana usually refers to a female first name.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Aurora",
+    "alpha": "8",
+    "description": "Aurora (Super Styrian) has an intense and pleasant hoppy aroma. Aurora has a very good storage stability. Beer prepared with this variety has good organoleptical scores. The yield of a-acids is very good when brewing with this variety. Aurora is very suitable for extraction and for combination with other varieties in the brewing process.(from the website)",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Azacca",
+    "alpha": "15",
+    "description": "Azacca\u2122 is the lwa or the spirit of the agriculture and the farming practices. The hop formerly known as #483 was released from the American Dwarf Hop Association 2014.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Boadicea",
+    "alpha": "8.5",
+    "description": "Boadicea is a dwarf variety and is resistant to aphids. It was bred as a general purpose variety with moderate alpha and good flavour. Thus, it could be used in organic brews where only limited ranges of hops are available. Boadicea is named after a celtic warrior queen who resisted the Roman invasion centuries ago, like the hop plant resists aphids. A mellow citrus flavor with a light flowery aroma and a faintly lime-like aroma.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Bobek",
+    "alpha": "5.6",
+    "description": "Bobek is known for its very good agronomic traits in hop production and processing.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Bramling Cross",
+    "alpha": "6.5",
+    "description": "Bred from a crossing in 1927 by Professor Salmon at Wye, of a Bramling (one of the traditional Golding varieties) with a male seedling of the Manitoban wild hop. This variety with its good yield, early ripening, tolerance to wilt and some resistance to mildews gave many growers in Kent a good hop to start the picking season. A distinctive and flexible hop which brings rich fruit and spice character to British Bitter, Brown Ale, Mild, Old Ale and Porter. May also suit Barley Wine, Belgian Brown or Dubble, American Black ales and Dunkel lagers.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Brewers Gold",
+    "alpha": "5.5",
+    "description": "Prof. E.F. Salmon of Wye College in Kent, England, has been responsible for breeding the variety Brewers Gold This variety is not only well known all over the world, but has been used in breeding processes for breeding around the globe, due to its moderate alpha acid content, high yield, and vigorous growth.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Callista",
+    "alpha": "3.5",
+    "description": "Developed at the Hop Research Center in Huell, and formerly named 2010/008/033 during trials. This hop variety, bred only six years ago, uses only German hop material from the famous Tradition variety. Callista has many meanings, but mostly it is referred to as a meaning &quot;most beautiful (feminine)&quot; in Greek.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Cascade",
+    "alpha": "5.75",
+    "description": "Cascade was developed in the U.S.D.A. breeding program in Oregon and released as a U.S. aroma variety in 1972. It is characterized by a dark green elongated cone which contains low amounts of alpha acids. The aroma is of medium strength and very distinct. The variety has good cone production and is agronomically strong with good crown resistance to downy mildew. The definitive hop for American Pale Ales, IPA&#039;s and Black Ales/Black IPA (also known as Cascadian Ale due to the use of this variety). Widespread use in British Bitters, ESB&#039;s, Pale Ales and very effective in fruity Blonde ales and Barley Wines too.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Cashmere",
+    "alpha": "8.5",
+    "description": "Cashmere was released by Washington State University in 2013. A daughter of Cascade, it includes Northern Brewer germplasm through the male parent. The alpha acid content of Cashmere is higher than Cascade. Cashmere contains no farnescene and twice as much humulen as Cascade.\r\n",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Celeia",
+    "alpha": "4.25",
+    "description": "Celeia is known for a noble hoppy aroma and a pleasant bitterness.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Centennial",
+    "alpha": "10.5",
+    "description": "Named after the Washington State festival. Centennial is an aroma-type cultivar, bred in 1974 and released in 1990. Centennial works well in Pale Ales and India Pale Ales, where some bottomline bitterness is needed with the top end aroma.\r\n\r\n\r\nANCESTRY\r\nThe genetic composition is 3/4 Brewers Gold, 3/32 Fuggle, 1/16 East Kent Golding, 1/32 Bavarian and 1/16 unknown.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Chelan",
+    "alpha": "13.25",
+    "description": "Chelan is a high alpha acids variety with a very high percentage of beta acids. The variety was developed through the John I. Haas, Inc., breeding program and released in 1994. It is a daughter of Galena and therefore has analytical data similar to Galena. Cone yields and percentages of alpha acids are higher than for Galena, maturity is medium and storage is excellent as it is in Galena.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Chinook",
+    "alpha": "13",
+    "description": "Chinook was developed by the U.S.D.A. breeding\r\nprogram in Washington State and released in\r\n1985 as a high alpha acids variety. This cultivar\r\ntakes its name from a Native American tribe\r\nindigenous to the region around Washington\r\nstate. The female parent is one of the English\r\nGoldings. The variety has a robust spicy, citrus\r\naroma and grows vigorously in all areas.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Citra",
+    "alpha": "12",
+    "description": "Citra is a special aroma hop variety released by the Hop Breeding Company, having unique and highly favored flavour characteristics. As the name suggest its flavour descriptors include the citrus fruits lime and grapefruit, other fruity characters described as gooseberry, passion fruit, lychee as well as numerous other tropical fruits. Citra\u00ae brand HBC 394 cv. hop variety originated from a cross between Hallertauer Mittelfr\u00fcher and a father derived from U.S. Tettnang. It was released in 2008.\r\nANCESTRY\r\n50% Hallertau; 25% US Tettnang;",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Cluster",
+    "alpha": "7",
+    "description": "Cluster is the oldest variety grown in the U.S. The rootstock origin is uncertain. Until the late 1970&#039;s, Cluster was one of only a few varieties growing in the U.S. and was planted to most of the hop acreage. Alpha acids content is medium, aroma is strong and storage stability of the alpha acids is among the best in the world. The variety grows with good vigor and cone production. The choice of name may be connected with the way in which the flowers are arranged in clusters. The origin of the rootstock, however, is unknown.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Columbus",
+    "alpha": "15",
+    "description": "AROMA PROFILE\r\nThe current Super High Alpha varieties, which include the names Columbus, Tomahawk and Zeus have the same female parent as Nugget, making them at least half sisters to Nugget.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Comet",
+    "alpha": "10.9",
+    "description": "Comet is a hop variety with relatively high alpha acids content and provides a &quot;wild American&quot; aroma. Released as high alpha hop primarily for production in Washington and Idaho Comet today is only grown in the Hallertau anymore.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Crystal",
+    "alpha": "5",
+    "description": "Triploid variety developed from the German aroma hop variety Hallertauer Mittelfrueh with primary contributions from Cascade, Brewer\u2019s Gold and Early Green. Released in 1993. Very popular in US craft brewing as triploid Hallertauer.\r\n\r\nAncestry:\r\nCrystal is a half-sister of Mt. Hood and Liberty",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "East Kent Golding",
+    "alpha": "5.5",
+    "description": "Developed from wild Canterbury Whitebine variety in late 1700\u2019s. Kent is a Region in England, home to Canterbury, where this variety was brought to the market in 1790. Gentle, fragrant, and pleasant. Recognised as having the most typical English aroma, with the best flavour historically coming from East Kent, this hop is in demand for copper-hopping and dry hopping of traditional ales. Goldings are also found to be useful for late hopping lagers, when a delicate aroma is required. Widely used and to great effect in many of the paler British Bitters, Pale and Blonde ales and ESB\u2019s. Also effective in Belgian Blond and Tripel styles, Saison, K\u00f6lsch and lighter Lagers.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Ekuanot",
+    "alpha": "15",
+    "description": "Ekuanot\u2122 (formerly HBC 366) was commercially released in 2014 as \u201cEquinox\u201d by the Hops Breeding Company in Yakima, and subsequently renamed due to trademark issues.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Ella",
+    "alpha": "14.7",
+    "description": "Ella is a new aroma variety which contributes hoppy and floral notes, with subtle hints of anise and a satisfying fullness of palate. Ella is reminiscent of, yet distinctly different in character to noble European varieties, and provides a contrast to the citrus and tropical fruit characters of many modern hops. Ella grows vigorously, producing moderately large, dense cones which mature mid- to late-season, with a broad harvest window helping to ensure excellent physical and chemical quality in the final product. With an alpha acid content of ~15%, Ella is an aroma hop with options. This newly developed aroma hop deserves experimentation \u2013 the hoppy characters and texture on the palate would provide a new twist to a pilsner or lager, while the floral characters could provide a highlight in a wide range of beer styles. Offers the ideal alternative aroma range to Hallertauer hops.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Endeavour",
+    "alpha": "9",
+    "description": "Endeavour is a new bred dwarf variety from a cross made in 2002. This variety imparts unique English flavour notes - like citrus, spicy and red fruits - to the beer.\r\n\r\nANCESTRY\r\nA seedling of Cascade and a granddaughter of Target.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Enigma",
+    "alpha": "13.5",
+    "description": "Cultivated through our in-house breeding program, Enigma\u2122 is the newest hop in the Hop Products Australia family. Enigma\u2122 is a descendant of the German Tettnang hop. After winning over Aussie brewers with her beguiling ways in trial brews, we expanded our plantings at our Tasmanian farm in 2013, ready for her first generous crop in 2015.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Extra Styrian Dana",
+    "alpha": "15.6",
+    "description": "Bred for a dual purpose (bitter and aroma) Dana offers an intense hoppy aroma and a robust bitterness.\r\n\r\nDaughter of Hallertau Magnum",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "First Gold",
+    "alpha": "7.1",
+    "description": "First Gold is a dwarf variety which is very suitable both as a general kettle hop and also for late and dry hopping in all types of beer. First Gold has excellent aroma qualities and much of the flavour character of Whitbread Golding seems to have been retained, producing a well-balance bitterness and a fruity, slightly spicy note in ales. The combined floral and fruit aromas are ideal for modern Blonde, Pale Ale and IPA\u2019s, Belgian Blond &amp; Tripels, Bi\u00e9re de Garde and Saison as well as American Pale Ales. Also suitable for modern Pilsners.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Fuggles",
+    "alpha": "4.2",
+    "description": "Named after the Kent grower that introduced it in 1875 and revered ever since as the classic aroma hop for British Bitters and Pale Ales, often used in combination with Goldings. Perhaps the most famous and revered of English hops. Fuggle has typical English flavour, frequently blended with Goldings to improve &quot;drinkability&quot; of the beer, and adding roundness and fullness to the palate. This robust hop contributes all the essential characteristics of flavour, aroma and balanced bitterness to ales, particularly as its relatively low alpha acid content requires a high hopping rate to achieve desired bitterness levels. Sometimes used as a distinctive dry hop. Due to low alpha levels, usually used to impart grassy late-hop aroma to Bitters and Pale ales. Fuggles are also suitable for Porters and Stouts where earthy and Hawthorn aromas are evident. May suit certain darker Bi\u00e9re de Garde too.\r\n",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Galaxy",
+    "alpha": "13.5",
+    "description": "The Australien hop variety Galaxy is a high alpha dual purpose seedless cultivar with a marked and unique hop aroma. Bred by Hop Products Australia and currently grown in Victoria and Tasmania. Galaxy, when added late in the boil has been found to impart a unique and pleasant flavour to beer. The striking flavour has been described as a combination of citrus and passionfruit, whilst still contributing significant bittering. A wide range of aromatics, dependent on point and rate of use, as well as malt and yeast influences.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Galena",
+    "alpha": "12.5",
+    "description": "Galena is the ancient Roman term for the mineral galenite. It occurs in the soils of Oregon and gives its name to the hop variety grown there. Galena is a high alpha acids variety developed in the state breeding program in Idaho and released as a variety in 1978. The female parent is Brewers Gold. Galena is characterized by high alpha acids and a relatively high content of beta acids. Storage stability is nearly as good as for Cluster. The variety is particularly sensitive to downy mildew, day length and climatic conditions and therefore yields best in the Washington growing areas.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Glacier",
+    "alpha": "6.6",
+    "description": "Released from USDA breeding program from Washington State University in 2000, chosen for its low cohumulone content and good yield potential. Gives a pleasant hoppy aroma",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Hallertau Blanc",
+    "alpha": "10",
+    "description": "New variety with a bouquet of white muscatel and also mango, gooseberry and grapefruit aroma notes. The variety was bred at H\u00fcll and was released 2012. This variety is one of the varieties which have been bred and planted in hop fields in response to demand from the craft beer industry and its desire for bold tastes and differentiating flavors.\r\n\r\nDaughter of Cascade",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Hallertauer Magnum",
+    "alpha": "13.5",
+    "description": "High alpha variety from Huell which mostly produces good yields. Like all Huell varieties Hallertauer Magnum can be characterized by its high tolerance to diseases. Its extremely big and heavy cones are another characteristic.\r\n\r\nDaughter of US Galena",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Hallertauer Mittelfr\u00fcher",
+    "alpha": "4.25",
+    "description": "A very popular variety with fine aroma and average bitter content. Because of its high susceptibility to wilt this variety suffered from a dramatic decrease in cultivation. Due to increasing demand and availability of virus-free plant material, Hallertauer Mittelfrueh has experienced a comeback. Used for Wheats, Altbiers, Pilsners, Belgian Ales, American and German Lagers.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Hallertauer Taurus",
+    "alpha": "0",
+    "description": "Huell bred high alpha variety with a very high alpha content and noble, aromatic bitter quality. Small and very compact cones which allow clean, mechanical picking and easy drying are also a feature of Taurus.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Hallertauer Tradition",
+    "alpha": "5.5",
+    "description": "Tradition is a variety bred at Huell which is characterized by its fine aroma and average bitter content. It can be compared to Hallertauer Mittelfrueh and stands out due to good yields which remain stable also in difficult years. This variety has a good tolerance to wilt and downy midew. The variety was released in 1993 in Germany.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Harmonie",
+    "alpha": "6.5",
+    "description": "Robust growth in, with long cylindrical rachides, fruitful rachides medium high, thick vine, red, medium dense deployment cone.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Herkules",
+    "alpha": "14.5",
+    "description": "A robust, high-yielding, high bittering hop cultivar tolerant to various diseases has been released in 2006 by the Hop Research Center H\u00fcll. Excellent brewing quality combined with very good storage stability increases the value of Herkules for the brewing industry. Use in Pilsners, German style Lagers &amp; Alt.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Hersbrucker Sp\u00e4t",
+    "alpha": "2.75",
+    "description": "A traditional variety with good to very good aroma but sometimes rather low bitter content. It is considered as a successor of Hallertauer Mittelfrueh and has a good tolerance to diseases. Used for Lagers, Pilsners, Bocks, Weizen Bocks, Wheats, Belgian-Style Ales, Kolsch and Munich Helles.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Huell Melon",
+    "alpha": "7.5",
+    "description": "New variety with distinctive honeydew melon and strawberry aroma. The variety was bred at H\u00fcll and was released 2012. This variety is one of the varieties which have been bred and planted in hop fields in response to demand from the craft beer industry and its desire for bold tastes and differentiating flavors.\r\n\r\nDaughter of Cascade",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Kazbek",
+    "alpha": "6.5",
+    "description": "Kazbek displays a spicy lemon aroma and was released 2008. Kazbek is one of the highest peaks within middle Caucasus mountain range.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Loral",
+    "alpha": "11",
+    "description": "HBC 291 is an experimental cultivar that shows a more traditional yet unique hop character providing the herbal, floral and spicy notes one would expect from a noble aroma hop. Its mother is the U.S. developed aroma variety Glacier. The father of HBC 291 is a son of the U.S. developed commercial variety Nugget. HBC 291 has numerous small, dense cones with moderate alpha acids.\r\n\r\nDaughter of Glacier and son of Nugget",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Lublin",
+    "alpha": "3.75",
+    "description": "Originating from the Saaz hop, this variety is a Pulawy breeding with very fine aroma characteristics. Today Lublin is cultivated in the Polish growing regions Lublin, Poznan and Opole. It is average alpha and hectare yield, however, is better than that of Saaz. Lublin has a good tolerance to diseases and grows on light to medium heavy soils.\r\n\r\nBred from Saaz",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Magnat",
+    "alpha": "13.5",
+    "description": "Magnat, a high alpha variety is a daughter of Magnum, hence the name. This variety was released 2012.\r\n\r\nDaughter of Magnum",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Mandarina Bavaria",
+    "alpha": "8.5",
+    "description": "Variety with a pleasant fruitiness and very distinctive tangerine and citrusy notes. The variety was bred at H\u00fcll and was released 2012. This variety is one of the varieties which have been bred and planted in hop fields in response to demand from the craft beer industry and its desire for bold tastes and differentiating flavors.\r\n\r\nDaughter of Cascade",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Marco Polo",
+    "alpha": "12.5",
+    "description": "In China on 8 % of the acreage Marco Polo (makepoluo \u9a6c\u53ef\u6cfc\u7f57) is grown.\r\n\r\nAncestry: Columbus",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Marynka",
+    "alpha": "10.5",
+    "description": "It is a typical bitter hop with dual characteristics i.e. it contains both high aroma values and high content of bitter substances.\r\n\r\nBrewers Gold Daughter",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Millennium",
+    "alpha": "15.5",
+    "description": "Millennium is a high alpha acids variety bred in the John I. Haas, Inc., breeding program and released in the year 2000. Its name was chosen to mark the turn of the millennium. With Nugget as the mother, this triploid variety exhibits the same powdery mildew resistance as Nugget. Its brewing profile is comparable to that of Nugget and Columbus-type varieties.\r\n\r\nDaughter of Nugget",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Monroe",
+    "alpha": "2.85",
+    "description": "The new hop variety Monroe established itself similarly extravagant as who it was named after. With an alpha content of only 2.5% and an oil content of 0.95 ml/100 g, Monroe showcases itself at the beginning as mild and smooth. When you add the hop to a beer, then she shows her true colors: exactly like everyone remembers Marilyn Monroe in a red dress. A guise full of red aromas. In the nose, there are wonderful raspberry notes supplemented with orange syrup and added to this in the taste is the sweet taste that reminds one of summer and cherries.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Mosaic",
+    "alpha": "12.5",
+    "description": "Mosaic\u2122 is an aroma hop variety developed by Hop Breeding Company, LLC released in 2012. Mosaic\u2122 offers a unique and complex blend of floral, tropical, fruity, and earthy characteristics that translate very favorably into several styles of beer. Mosaic\u2122 is the daughter of YCR 14 Simcoe\u00ae brand hop variety and a Nugget derived male. Gives a pineapple and citrussy taste.\r\n\r\nANCESTRY\r\nMosaic\u2122 is the daughter of YCR 14 Simcoe\u00ae brand hop variety and a Nugget derived male.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Mt. Hood",
+    "alpha": "5.5",
+    "description": "Mt. Hood is an aroma variety released in 1989 from the U.S.D.A. breeding program in Oregon. The variety is a triploid daughter of Hallertauer Mittelfrueh and a sister to Liberty with analytical data similar to both. It has a low alpha acids and beta acids content, low cohumulone content in the alpha acids, high humulene content in the essential oil and a mild aroma. Subtle aroma characteristics make it suitable for Light and Helles Lagers, Bocks and wheat beers, possibly Biere de Garde, Marzen and Oktoberfest too.\r\n\r\nANCESTRY\r\nBred from Hallertauer Mittelfr\u00fch and Liberty",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "National",
+    "alpha": "5.5",
+    "description": "The hop variety National comes from a private breeding program in Ukraine. In the cold infusion green vegetal aromas of peas and wild garlic come to the fore, combined with a straw-like spicy taste of grain and Gerbera.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Northern Brewer",
+    "alpha": "9",
+    "description": "Northern Brewer was bred from an American and an English hop in 1934. Because of its moderate alpha content and pleasant aroma, this variety is particularly well- suited as a dual purpose hop. Northern Brewer is grown not only in the USA, but also in England and Germany. In both the raw hops and the cold infusion of this cultivar, the predominant aromas are of citrus, mandarin and lime. In the raw hops, the flavour profile is augmented by sweet fruits such as pineapple and red strawberries, menthol and light notes of cream caramel. In the cold infusion, watermelon, peach and apricot in particular come to the forefront.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Nugget",
+    "alpha": "11.5",
+    "description": "Nugget is a high alpha variety with high yield originally from the US it is undemanding with regard to soil quality and thus grows in almost every region on very poor soil. It grows vigorously in all areas and generally yields well. Compared to US Nugget, the alpha content of Hallertau Nugget is a little lower. Used for its bittering potential plus aromatic properties similar to Northern Brewer.\r\n\r\nDaughter of Brewers Gold",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Opal",
+    "alpha": "6.5",
+    "description": "Opal is &quot;the&quot; Australian gemstone and is also an eponym for a relatively new German hop variety from the German research center H\u00fcll that exhibits excellent aroma characteristics combined with a respectable alpha acid level. Opal is an European jewel which has a sweet spice, slightly peppery aroma and flavor combined with a light clean citrus fruit aroma. Will do well in German wheat beers, summer ales, Helles, light European lagers, light ales, Saisons, and Belgian ales.\r\n\r\nDaughter of Hallertau Gold",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Pahto",
+    "alpha": "18.5",
+    "description": "Pahto is a high alpha variety that was developed for hot side and early kettle additions to efficiently deliver bitterness to beer. When used as a bittering addition hop Pahto provides a very neutral flavor to beer, and a pleasant bitterness. The aroma profile of the hop cone is described as herbal, earthy, woody, and resinous with some fruit.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Palisade",
+    "alpha": "7.5",
+    "description": "The Palisade cultivar is named after an important instrument used in hop growing. This pointed wooden stake serves as an indispensable climbing support for the hop plant as it grows.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Perle",
+    "alpha": "3.5",
+    "description": "The combination of good alpha acid content with good aroma caused Perle&#039;s popularity. High yields and good tolerance to most diseases make this variety attractive also for growers.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Pilgrim",
+    "alpha": "11.5",
+    "description": "Pilgrim is a bitter-type variety. It was developed by Wye Hops Ltd and gained European Plant Variety Rights in 2006. It has very good resistance to wilt disease and is being planted in areas where this disease is present, often replacing \u2018Wye Target\u2019. Bred from Yeoman in the late 1990\u2019s, Pilgrim is a high Alpha genuinely dual-purpose hop, rich in oils and with good storage potential.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Polaris",
+    "alpha": "21",
+    "description": "As can be gathered from the name of the cultivar, cool menthol notes of mint play a key part in aroma. The resinous profile suits special beers. The variety was bred at H\u00fcll and was released 2012. This variety is one of the varieties which have been bred and planted in hop fields in response to demand from the craft beer industry and its desire for bold tastes and differentiating flavors.\r\n\r\nHuell Breeding Line",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Premiant",
+    "alpha": "4.75",
+    "description": "Czech dual purpose hop variety; selection in hybrid progenies of Saaz variety in inbreeding line and other breeding material with a mild and pleasant aroma. A massive growth in cylindrical, vine green, 12-15 mm thick, fruitful rachides medium high, medium dense deployment cone.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Progress",
+    "alpha": "6.75",
+    "description": "Developed at Wye College and released for commercial growing in 1964. Somewhat similar to a Fuggle but slightly sweeter and usually providing a softer bitterness in beers of all types. An aroma profile and dual purpose alpha level, ideally suited to British Bitter, Pale Ales, Porter &amp; Stout. May be an interesting kettle-hop for Czech-style Pilsners or Bock lagers.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Relax",
+    "alpha": "0.3",
+    "description": "Relax is a hop variety that originally wasn&#039;t bred for beer but instead for tea. Despite having a very low \u03b1-acid content, Relax has a remarkably high \u03b2-acid and oil content, which still makes it a very attractive variety for the brewer. Because of its high oil content, a broad range of different flavours can be expected. This could be verified by a simple rub and sniff: from cornflower and the aroma of alpine meadows to lemongrass and hibiscus, this variety shows a refreshing profile. When a cold extraction with this variety is completed, notes of honeydew melon are present.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Saaz Late",
+    "alpha": "4.75",
+    "description": "Selection from progenies of F1 generation after parental combination of developed breeding material with origin in Saaz. Saaz Late was released 2010. Saaz Late has vigorous growth and irregularly cylindrical shape",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Saazer",
+    "alpha": "4.5",
+    "description": "Czech aroma landrace variety selected in the area of the same name, very mild with pleasant hoppy notes. Moderately strong growth, regular shape, vine green-red, 9-11 mm thick, fruitful rachides low, dense deployment cones. Saaz as a fine aroma cultivar is recommended for the second and third hopping. It may be also used for dry hopping. Used across all the notable Czech Pilsners and helps define that beer style. Similarly suits and is widely used Continental-style Pilseners, Helles &amp; American Light, Bock lagers and lighter Ales.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Sabro",
+    "alpha": "14",
+    "description": "Sabro\u2122 imparts a strong and complex fruit flavor to beer. Sabro is a hop with robust brewing performance that consistently translates its distinct flavor to beer. Sabro\u2019s flavor is notable for its complexity of fruity and citrus flavors, including distinct tangerine, coconut, tropical and stone fruit. In addition, there is a pronounced cream character and secondary flavors of vanilla, cedar, dill, and mint.\r\nKEY FLAVORS\r\n",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Saphir",
+    "alpha": "3.25",
+    "description": "Sapphire is a typically blue gemstone variety of the mineral corundum, an aluminium oxide. Like it&#039;s eponym Saphir brings freshness and a cool gemstone attitude to the beer. Saphir differs considerably from other German aroma varieties with its fruity aroma characteristics. Saphir was bred at the \u201eHopfenforschungszentrum H\u00fcll\u201c and was released in 2000, together with the varieties Smaragd and Opal as new aroma varieties.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Simcoe",
+    "alpha": "13",
+    "description": "Simcoe\u00ae is a multi-purpose hop bred by Yakima Chief Ranches. It has not only a very special aroma but also a high alpha content. It was released for planting in the year 2000. Lime overtones gives beer brewed with Simcoe hops an incomparable flavour. It imparts a unique, pine-like aroma, and is often used in American Ales.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Sladek",
+    "alpha": "7",
+    "description": "Hybrid aroma variety of Saaz type with excellent impact on hoppy taste and aroma of beer. Late variety. High yield. Sladek, as an aroma hop, is recommended for the second hopping.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Smaragd",
+    "alpha": "5",
+    "description": "The name of this fine aroma variety is the German word meaning \u201cemerald\u201d. The Smaragd hop has a high bittering value and good disease characteristics. This German cultivar is particularly high-yielding. Smaragd was bred at the \u201eHopfenforschungszentrum H\u00fcll\u201c and was released in 2000, together with the varieties Saphir and Opal as new aroma varieties.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Sorachi Ace",
+    "alpha": "14.5",
+    "description": "Sorachi Ace was developed in 1984 for Sapporo Breweries Ltd. From (Brewer\u2019s Gold and Saazer-OP) x Beikei No. 2 (as a male) and is named after Sorachi, a subprefecture in Hokkaido. The aroma variety produces a good yield and is particularly resistant to powdery mildew, wilt and botrytis with a relatively high Alpha Acid content (12-16%) and also a high oil content (2-3 ml/100g). The original breeding objective was to develop a variety that was very similar to Saaz, but had a higher alpha content. Today, Sorachi Ace is grown only in the USA",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Sovereign",
+    "alpha": "5.5",
+    "description": "Sovereign is a hedgerow variety bred at Wye College from an open pollination made in 1995. It is a grand-daughter of Pioneer. It was selected for its good aroma, often likened to that of Fuggles. Recommended for use alone in Stouts and in combination with Goldings in British Bitters and Pale Ales. May provide interesting character for Light &amp; Helles Lagers or K\u00f6lsch.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Spalt Spalter",
+    "alpha": "4",
+    "description": "Spalt variety has a very good aroma comparable to Tettnang. The hop variety grown in Spalt also belongs to the Saaz group. It is cultivated exclusively in the region around Spalt. Despite its sometimes less than satisfactory yields, this variety has become more popular again. It has a good resistance to wilt and other diseases.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Spalter Select",
+    "alpha": "4.75",
+    "description": "Spalter Select was bred at Huell. Its fine aroma and high farnesene content are typical of Spalt hops. This variety grows very fast and develops a very storn &quot;head&quot;. Spalter Select is characterized by a good tolerance to diseases like wilt and downy mildew.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Strisselspalt",
+    "alpha": "2.1",
+    "description": "The highly valued Strisselspalt is one of the best-known hop varieties of Alsace and comes from the region of Strasbourg. Its name is derived from the words Strissel and Spalt. Strissel means bouquet, while Spalt is an old term denoting quality. Strisselspalt is known for its fine hop aroma.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Styrian Gold",
+    "alpha": "5",
+    "description": "Styrian Gold was bred to improve the agronomic values of the traditional Styrian Savinjski Golding and was released 2009. This variety is cultivated mainly in Slovenia. Styrian Gold is known for its distinct aroma.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Styrian Savinjski Golding",
+    "alpha": "5.25",
+    "description": "Styrian Savinjski Golding is a traditional Slovenian variety originating from the English variety Fuggle, which was brought to Slovenia in the early 19th century. This variety is known for its noble hoppy aroma and pleasant bitterness.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Summit",
+    "alpha": "16",
+    "description": "ummit is a dwarf high-alpha variety bred by the American Dwarf Hop Association in the U.S.  Released in 2003, it has unusually high alpha acids content, excellent storage stability and powdery mildew resistance.  Summit has a strong aroma profile which includes citrus and grapefruit notes.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Super Galena",
+    "alpha": "14.5",
+    "description": "Super Galena is a super high alpha variety developed by the Hopsteiner breeding program and released in 2006. It has relatively high contents of both alpha and beta acids, making it a good bittering hop with pleasant aroma. Super Galena is comparable to Galena in its aroma and bitterness profile, but offers a substantially higher yield and complete resistance to all current hop powdery mildew strains found in the U.S.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Super Pride",
+    "alpha": "14.25",
+    "description": "The Australian hop variety Super Pride is a seedless high alpha acid variety, bred by the Hop Products Australia Rostrevor breeding programme. Bred from the famous Pride of Ringwood \u2013 Australia\u2019s dominant hop variety since the 1960\u2019s \u2013 Super Pride features similar mild aromas and low Cohumulone levels. Super Pride has higher alpha acid than its mother Pride of Ringwood.This cultivar was bred by crossing a female tetraploid Pride of Ringwood with a male YK\u00ac81\u00ac18. Super Pride was selected for commercial production due to its high alpha acid content and relatively low cohumulone levels.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Sybilla",
+    "alpha": "7.25",
+    "description": "Sybilla was released 1996 and in the years 2004-2006 the Hop latent viroid free seedlings of Sybilla were produced.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Tahoma",
+    "alpha": "7.7",
+    "description": "Tahoma was released by Washington State University in 2013. Tahoma is a daughter of Glacier that retains the very low cohumulone characteristic of Glacier with somewhat higher alpha acid content.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Tettnang Tettnanger",
+    "alpha": "4",
+    "description": "A traditional indigenous variety from the Saaz group which is mainly cultivated around Tettnang on Lake Constance. The unique combination of the favorable climate at Lake constance and sandy clay soils from the Ice Age produces a very fine aroma. This variety has a good tolerance to plant diseases. Widely used in Lager styles, particularly modern Helles and Light lagers and well suited to Wit and Weisse style wheat beers, Saison\u2019s and light, spicy cask Ales. May be an interesting addition to Old Ale or Barley Wine or spiced Stouts.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Topaz",
+    "alpha": "15",
+    "description": "Topaz was originally selected as a seedless high alpha-acid hop for the production of extract, but recent work has shown it to have excellent flavour potential, to the point that a beer hopped solely with Topaz was the most preferred of a group of five single hop beers by tasters at Brau 2010. As a flavour addition Topaz can provide earthy notes similar in character to old English cultivars, and fruit flavour such as lychee can be detected in later additions and higher gravity brews.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Triple Pearl",
+    "alpha": "10.8",
+    "description": "TriplePearl is a triploid daughter of Perle that was released by USDA-ARS in late 2013.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Triskel",
+    "alpha": "8.5",
+    "description": "Triskel (formerly P09-18) is a new breed hop with an aroma similar to Strisselspalt. High content of essential oils make Triskel very suitable for late and dry hopping. A pleasant and well-balanced bitter character. The name &#039;&#039;Triskel&#039;&#039; was inspired by triskelion, the symbol of the Gauls, the ancestors of the modern French people, which represents the three elements: Earth, Air, and Water.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Vic Secret",
+    "alpha": "15.5",
+    "description": "The story of Vic Secret goes back to the year 2000: it was planted as a seedling and advanced through the breeding programme with great strides until the moment everyone had been waiting for finally arrived with its release in 2010. This cultivar has only been in commercial production since 2013 and is still an insider\u2019s tip, as its name suggests. Both the raw hops and the cold infusion of this cultivar are strongly characterised by green fruits, such as gooseberries and quince, sweet candied fruits, citrus notes of grapefruit and red berries, such as strawberries. Pineapple and passion fruit are also particularly prominent. The overall aroma profile is rounded off with intense floral notes of rose and apple blossom.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Vital",
+    "alpha": "14",
+    "description": "Vital is the result of hop breeding for pharmeceutical and biomedical purposes and shows high contents of Xanthohumol and DMX.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Warrior",
+    "alpha": "15.5",
+    "description": "Warrior\u00ae YC 005 is a high alpha acids variety developed by Yakima Chief Ranches. It has yields in excess of 2100-2500 lbs/acre and exhibits a moderate tolerance to powdery mildew. It is characterized by a low proportion of cohumulone content in the alpha acids and good storage stability.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Whitbread Golding Variety",
+    "alpha": "6.5",
+    "description": "Bred in 1911 on land owned by Whitbread. Not a true Golding, but similarly aromatic. WGV was selected as a seedling and planted extensively during the 1950s, when Verticillium Wilt started to encroach on the Fuggles and Goldings. Provides a distinctive sweet fruit flavour in beer, similar to but generally more pronounced and robust than Goldings. It gives a mild clean bitterness and is sometimes used with good effect as a distinctive dry hop. Traditionally best suited to British Bitters and Pale Ales but may find use in Bi\u00e9re de Garde, Saison and Wheat beers too. Fresh green plant-like character can also be effective in Amber, M\u00e4rzen and Oktoberfest-style lagers.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Willamette",
+    "alpha": "5",
+    "description": "Willamette, the triploid daughter of Fuggle, was released as a U.S. aroma variety in 1976 from the U.S.D.A. breeding program in Oregon. The variety is characterized by a low alpha acids content, mild aroma similar to Fuggle and medium cone yields. It is more difficult to grow than most varieties; however, it is still widely grown in all U.S. growing areas where it has largely replaced Fuggle.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Wye Challenger",
+    "alpha": "7.5",
+    "description": "Wye Challenger was developed at Wye College from a cross made in 1963. Granddaughter Northern Brewer. It was released for commercial growth in 1971 as a dual purpose variety combining good aroma with moderate bittering levels. It is strongly resistant to downy mildew disease and was selected to meet the brewers&#039; demand for flavour and bitterness with the growers&#039; demands for disease resistance. Used to good effect for both bittering and late aromas in many classic British Bitters and Pale Ales. Use also as a bittering hop in Stouts and Barley Wines, Helles and M\u00e4rzen lagers.\r\nKEY FLAVORS\r\nBananaGingerbreadCognac",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Wye Target",
+    "alpha": "11",
+    "description": "Bred at Wye College, released in 1976, and the most widely grown British hop. Very high bitter value, very good stability average aroma. A flexible hop that may be used to effectively bitter a wide variety of both Ales and Lagers. Unusually effective for dry hop aroma in IPAs, and potentially Pilsners too. Would also lend itself well to Saison.\r\nKEY FLAVORS\r\nTobaccoElderberryCaramelVanillaCognac",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Zeus",
+    "alpha": "15",
+    "description": "The current Super High Alpha varieties, which include the names Columbus, Tomahawk and Zeus have the same female parent as Nugget, making them at least half sisters to Nugget.",
+    "brand": "Barth-Haas"
+  },
+  {
+    "name": "Hallertau Hersbrucker",
+    "alpha": "4.6",
+    "description": null,
+    "brand": "Brewferm"
+  },
+  {
+    "name": "Hallertau Mittelfr\u00fch",
+    "alpha": "4.2",
+    "description": null,
+    "brand": "Brewferm"
+  },
+  {
+    "name": "Amarillo",
+    "alpha": "9.8",
+    "description": null,
+    "brand": "Brewmaster"
+  },
+  {
+    "name": "Czech Saaz",
+    "alpha": "2.8",
+    "description": null,
+    "brand": "Brewmaster"
+  },
+  {
+    "name": "Mandarina Bavaria",
+    "alpha": "9.5",
+    "description": null,
+    "brand": "Brewmaster"
+  },
+  {
+    "name": "Northern Brewer",
+    "alpha": "7.3",
+    "description": null,
+    "brand": "Brewmaster"
+  },
+  {
+    "name": "Cascade",
+    "alpha": "8.3",
+    "description": "Famously citrus-like (particularly ruby red grapefruit) with prominent floral tones. Medium intensity. ",
+    "brand": "BSG"
+  },
+  {
+    "name": "Centennial",
+    "alpha": "10.5",
+    "description": "Dual purpose with high alpha acids and excellent aromatic capabilities. Widely used as a finishing or dry hop as a stand-alone variety or part of a blend. Excellent in all styles of American IPAs, pale ales, stouts, and porters; also welcome at lower intensities in American-style wheat and blonde ales.\r\n\r\nAroma & Flavor Characteristics: Predominantly citrus but with undertones like lemongrass and pine needles often evident. The citrus character can be reminiscent of Cascade ( grapefruit), the variety it\u2019s most often compared to.\r\n",
+    "brand": "BSG"
+  },
+  {
+    "name": "Challenger",
+    "alpha": "7.5",
+    "description": " A truly versatile dual-purpose hop, Challenger\u2019s alpha content can be harnessed for bittering. It also possesses a smooth,pleasant flavor for early or late kettle additionsand dry hopping. Alone or in a blend, Challenger is an excellent option forthe hop bill for any British, Irish, or Scottish styles.\r\n\r\n\r\nAroma & Flavor Characteristics: Medium intensity; American-grown Challenger tends to be more spicy, cedar-like and less orange marmalade-like than English Challenger. \r\n\r\n",
+    "brand": "BSG"
+  },
+  {
+    "name": "Citra",
+    "alpha": "12",
+    "description": "Because of its distinctive and intense aromatics, Citra\u00ae is best in a late addition or dry hop capacity. Used as a single variety or in a blend, Citra\u00ae does well in American wheat beers, pale ales, IPAs Belgian-style ales, and has been known to complement Brettanomyces ferments.\r\n\r\nAroma & Flavor Characteristics: Strongly tropical and lush with a host of fruit flavors including peach, passionfruit, guava, lychee, grapefruit, lime and gooseberry. ",
+    "brand": "BSG"
+  },
+  {
+    "name": "CTZ",
+    "alpha": "15.5",
+    "description": "Excellent bittering capability as originally intended, but craft brewers have also harnessed CTZ\u2019s intense, citrus-and-spice pungence for American-style IPAs. \r\n\r\nAroma & Flavor Characteristics: Powerful and striking, displaying oily fresh citrus and wild herbal character; dry hopping can bring out pine and spice. \r\n",
+    "brand": "BSG"
+  },
+  {
+    "name": "East Kent Goldings",
+    "alpha": "5.3",
+    "description": "Aroma. Regarded for centuries as England\u2019s finest hop, EKG has been a spotlight flavor in the profiles of hoppy ales from the British Isles: IPA, pale ale, and bitter. It\u2019s used at lower rates to subtle effect in Scottish and other darker, maltier ales. \r\n\r\nAroma & Flavor Characteristics: Flowery with citrus peel or citrus candy overtones and a herbaceous, spring meadow-like undercurrent. Gentle and refined, dry hopping can bring forth its citrus aspects alongside a fresh grassy note.\r\n",
+    "brand": "BSG"
+  },
+  {
+    "name": "Falconer's Flight",
+    "alpha": "10.4",
+    "description": "",
+    "brand": "BSG"
+  },
+  {
+    "name": "Galaxy",
+    "alpha": "14.2",
+    "description": "Aroma and dry hop. Although it has adequate alpha content for bittering additions, Galaxy\u2122 shines when used as an aroma and flavor hop - the later the better for flavor intensity. Its powerful tropical fruit character is at home as a feature in American pale and IPA, wheat beer, saison, and Brettanomyces-fermented beers. \r\n\r\nAroma & Flavor Characteristics: Intense and potent. Musky tropical fruit (passionfruit, apricot, Key lime) with dank citrus and earthy blackcurrant. \r\n",
+    "brand": "BSG"
+  },
+  {
+    "name": "German Hallertau Mittelfr\u00fch",
+    "alpha": "4.4",
+    "description": "Aroma. Although it can be and is used throughout the boil, it is most prized for its fine, elegant aroma and flavor contribution. Mittelfr\u00fch has been one of Europe\u2019s most widely esteemed varieties for centuries and is practically synonymous with continental lagers (particularly Bavarian styles) and many types of German and Belgian ales. \r\n\r\nAroma & Flavor Characteristics: Complex, but mild and approachable. A mixture of sweet, earthy,and herbal with vivid impressions of new-mown hay, sweet spices, and dried flowers. Its many offshoots and daughters show some of these same qualities, but none have the same range and balance as Mittelfr\u00fch.",
+    "brand": "BSG"
+  },
+  {
+    "name": "German Northern Brewer",
+    "alpha": "5.4",
+    "description": "Dual purpose. German-grown Northern Brewer has a more \u201cnoble\u201d and less pungent profile than when grown elsewhere, which makes it suited to a variety of traditional European styles where a strong or \u201cAmerican\u201d hop signature may not be appropriate - German lagers, Belgian and Trappist ales, farmhouse-style beers. \r\n\r\nAroma & Flavor Characteristics: Predominantly spicy with an undercurrent of woods and wild fruit, suggestive of its Brewer\u2019s Gold parentage. Overall balanced with lasting flavor that reads as simply \u201choppy\u201d - not as outright woodsy and bright as US-grown Northern Brewer. \r\n",
+    "brand": "BSG"
+  },
+  {
+    "name": "German Spalter Select",
+    "alpha": "3.1",
+    "description": null,
+    "brand": "BSG"
+  },
+  {
+    "name": "Hallertau Mittelfruh",
+    "alpha": "2.7",
+    "description": null,
+    "brand": "BSG"
+  },
+  {
+    "name": "Hersbrucker",
+    "alpha": "2.5",
+    "description": "Aroma. Hersbrucker is traditional in the lightly-hopped lagers and ales of southern Germany and does excellent work in Munich-style pale and dark lager, Weissbier, Oktoberfest, and Bock. Its mellow spiciness is also at home in many Belgian ale or more hop-forward lagers like Pils.",
+    "brand": "BSG"
+  },
+  {
+    "name": "Idaho 7",
+    "alpha": "14.1",
+    "description": "Primarily aroma and dry hopping due to its potent aroma and flavor, but high enough alpha acids to contribute good bitterness. Excellent as a single hop or part of a blend for IPA, pale ale, and hop-forward American wheat beers.\r\n\r\nAroma & Flavor Characteristics: Juicy tropical fruit and citrus (think apricot, orange, red grapefruit, papaya) with big notes of resiny pine and hints of black tea. \r\n",
+    "brand": "BSG"
+  },
+  {
+    "name": "Magnum",
+    "alpha": "12.8",
+    "description": null,
+    "brand": "BSG"
+  },
+  {
+    "name": "Mandarina Bavaria",
+    "alpha": "8.5",
+    "description": "Aroma. A tangerine machine when used for late, whirlpool, and dry hop additions, Mandarina Bavaria is quickly finding support in the brewhouse for American IPA and variants, black ales, saisons, Brett fermentations, and other beers where a definite fruity and strongly hoppy character is beneficial. \r\n\r\nAroma & Flavor Characteristics: Intense pineapple, lemon and citrus flavors with a resinous, herbal followup. Sweet and distinctive. ",
+    "brand": "BSG"
+  },
+  {
+    "name": "Mosaic",
+    "alpha": "10.9",
+    "description": "Mosaic\u00ae is often compared to an amplified Citra\u00ae, with which it shares a respectable alpha content but a highly-desired oil profile as well. This unique oil profile makes it most commonly used for flavor and aroma. Its exotic, fruit-laden bouquet lends itself well to American-style IPAs, saisons, wheats, and Brettanomyces-fermented beers.\r\n\r\nAroma & Flavor Characteristics: Complex and pronounced. Strong impressions of citrus oil, balsam pine, blueberry, peach and tropical fruit. Notable mango character, but also shades of lime and mandarin orange.\r\n\r\n",
+    "brand": "BSG"
+  },
+  {
+    "name": "Motueka",
+    "alpha": "7",
+    "description": " Primarily aroma, but can easily be used as a dual-purpose hop. Its mixture of Saaz character with distinct lemon-lime citrus, plus good oil content, makes for a unique signature when used throughout the kettle in hoppy lagers, Belgian ales, or wheat beers. \r\n\r\nAroma & Flavor Characteristics: Sweet and resinous with zingy citrus and fresh herbal notes (basil, rosemary) and hints of dried orchard fruit around the edges. \r\n",
+    "brand": "BSG"
+  },
+  {
+    "name": "Mount Hood",
+    "alpha": "5.5",
+    "description": " With its noble heritage, Mt. Hood is an excellent choice for pale lagers, wheat beers, and German or Belgian ales where a refined aroma with low to moderate bitterness is desirable. It makes a good substitute for German-grown Hallertau varieties.\r\n\r\nAroma & Flavor Characteristics: Moderately intense and sweet with suggestions of herbal notes, flowers and green fruit. Noble-like, it can be pungent with a more pronounced herbal note in fresh brews.",
+    "brand": "BSG"
+  },
+  {
+    "name": "Nelson Sauvin",
+    "alpha": "11.6",
+    "description": "High enough alpha acid content to make it truly dual-purpose, but best known for its distinct gooseberry, white wine-like aroma. Nelson Sauvin\u2019s lush tropical fruit character and low cohumulone levels have made it a favorite for IPA. Adds a lovely dimension to saison and wheat ales as well. \r\n\r\nAroma & Flavor Characteristics: Striking and pronounced elements of cold-climate Sauvignon Blanc and freshly crushed gooseberries. Also look for Key lime, pine needles, earthy dill, and tropical fruit (lychee, papaya, passionfruit). \r\n",
+    "brand": "BSG"
+  },
+  {
+    "name": "Pacifica",
+    "alpha": "5.5",
+    "description": "Aroma. With its noble ancestry and mild aromatic blend of fruit with Hallertau-esque floral and earthy notes, Pacifica\u2122 is a welcome addition to any lager formulation, both hop-forward and malty styles. It also does well as a supporting player in Altbier, amber ales, Kolsch, and Belgian-style ales.\r\n\r\nAroma & Flavor Characteristics: Moderate and highly pleasant. Orange marmalade and delicate citrus blended with a very Old World Hallertau-esque warmth: new-mown hay and honey with tangy herbal and sweet floral notes. ",
+    "brand": "BSG"
+  },
+  {
+    "name": "Perle",
+    "alpha": "8.7",
+    "description": "Aroma, but in an excellent year can have high enough alpha content for use as bittering as well. Its combination of delicacy and brightness go well with the clean flavors of European lagers and cold-fermented ales, as well as the yeast character of many Belgian beers. Some brewers also find nontraditional use for its flavors in blends for pale ale and other hoppy warm-fermented styles. \r\n\r\nAroma & Flavor Characteristics: Lively and sweet with harmonized suggestions of fresh mint and spice in the nose. On the palate, Perle shows a complex mix of floral and spice with mild to medium intensity.\r\n\r\n\r\n",
+    "brand": "BSG"
+  },
+  {
+    "name": "Rakau",
+    "alpha": "10",
+    "description": "Dual purpose. Rakau\u2122 is a total package of high alpha acids and oil content (particularly myrcene) with low cohumulone, making it ideal for the \u201choppy not bitter\u201d school of IPA. Also well suited to hop-forward lagers, Belgian ales, or highly aromatic American wheats. \r\n\r\nAroma & Flavor Characteristics: Unique aromas described as, \u201cthe whole orchard.\u201d Dominant stone fruits (especially apricot), tropical fruits, and candy.",
+    "brand": "BSG"
+  },
+  {
+    "name": "SAAZ CZ",
+    "alpha": "3.5",
+    "description": "Aroma. Indispensable for authentic Bohemian-style Pilsner, Saaz possesses a mild but distinctively spicy, pungent quality that is equally at home in other pale lager styles as well as Belgian and farmhouse ales. \r\n\r\nAroma & Flavor Characteristics: Soft, pleasantly spicy and herbal with vivid woodsy, earthy, and dark floral character. Distinctively \u201choppy\u201d in pale worts. Rootstock grown elsewhere doesn\u2019t have the same range or balance as Czech flowers. ",
+    "brand": "BSG"
+  },
+  {
+    "name": "Sabro",
+    "alpha": "14",
+    "description": " Aroma. With a multifaceted bouquet and high level of aromatic oils (particularly myrcene), Sabro\u2122 excels in finishing and dry hop additions. \r\n\r\nAroma & Flavor Characteristics: Complex and distinct fruit and citrus. Unique tangerine, coconut, tropical and stone fruit underscored by hints of cedar and mint.",
+    "brand": "BSG"
+  },
+  {
+    "name": "UK Target",
+    "alpha": "10.8",
+    "description": " Bittering. Target\u2019s high alpha delivers for sharply hoppy IPA, bitter, and pale ale, or for efficient bittering additions of darker and less-hoppy English or Belgian styles. It is also used by many UK brewers, alone or in a blend, as a singular late hop. \r\n\r\nAroma & Flavor Characteristics: Intense and pleasantly pungent with dried citrus and sagebrush overtones. Whirlpool or dry hop additions play up a spice character. ",
+    "brand": "BSG"
+  },
+  {
+    "name": "Wai-iti",
+    "alpha": "3",
+    "description": "Aroma. Low in alpha acids and cohumulone but comparatively high in oil content, Wai-iti\u2122 delivers strong flavor and aroma when used as a late kettle hop, in the hop back, or as a dry or cask hop. Excellent for hop-driven craft styles as well as wheat beers and dry-hopped sours.\r\n\r\n\r\nAroma & Flavor Characteristics: Lush and fragrant with dominant notes of stone fruit (notably peach and apricot) with pleasantly intense citric tones of lime and mandarin. ",
+    "brand": "BSG"
+  },
+  {
+    "name": "Willamette",
+    "alpha": "3.8",
+    "description": "Aroma. Willamette can be incorporated into many styles thanks to its moderate alpha and mellow disposition. English ales are a natural fit, but it also does well in many American and European ale styles.\r\n\r\nAroma & Flavor Characteristics: Mild with complex spiciness. Warm and inviting character containing high notes of wood resin, dried fruit, and fresh hay.",
+    "brand": "BSG"
+  },
+  {
+    "name": "Columbus",
+    "alpha": "16.5",
+    "description": null,
+    "brand": "Crosby Hop Farm"
+  },
+  {
+    "name": "Denali",
+    "alpha": "12.9",
+    "description": null,
+    "brand": "Crosby Hop Farm"
+  },
+  {
+    "name": "El Dorado",
+    "alpha": "15",
+    "description": null,
+    "brand": "Crosby Hop Farm"
+  },
+  {
+    "name": "Chinook",
+    "alpha": "13",
+    "description": null,
+    "brand": "Hallowed Hops"
+  },
+  {
+    "name": "Cascade",
+    "alpha": "6",
+    "description": null,
+    "brand": "Hill Top Hops"
+  },
+  {
+    "name": "Newport",
+    "alpha": "8",
+    "description": null,
+    "brand": "Hill Top Hops"
+  },
+  {
+    "name": "Amarillo",
+    "alpha": "7.1",
+    "description": null,
+    "brand": "Hop Union"
+  },
+  {
+    "name": "German Spalt",
+    "alpha": "2.4",
+    "description": null,
+    "brand": "Hop Union"
+  },
+  {
+    "name": "Simcoe",
+    "alpha": "13.4",
+    "description": null,
+    "brand": "Hop Union"
+  },
+  {
+    "name": "Centennial",
+    "alpha": "9.7",
+    "description": null,
+    "brand": "Hops Direct"
+  },
+  {
+    "name": "Citra",
+    "alpha": "11.8",
+    "description": null,
+    "brand": "Hops Direct"
+  },
+  {
+    "name": "Crystal",
+    "alpha": "3.3",
+    "description": null,
+    "brand": "Hops Direct"
+  },
+  {
+    "name": "Mosaic",
+    "alpha": "10.6",
+    "description": null,
+    "brand": "Hops Direct"
+  },
+  {
+    "name": "Simcoe",
+    "alpha": "13.6",
+    "description": null,
+    "brand": "Hops Direct"
+  },
+  {
+    "name": "X06297",
+    "alpha": "15",
+    "description": "This newcomer has an Asian flair bred from a Japanese variety (Eastern Gold) and features a distinct aroma of sweet orange, vanilla and tropical fruit. XO6297\u2122 is resistant to powdery mildew and has a large total oil content and high alpha.",
+    "brand": "Hopsteiner"
+  },
+  {
+    "name": "Amarillo",
+    "alpha": "9.5",
+    "description": "Floral, tropical and citrus characteristics.",
+    "brand": "LD Carlson"
+  },
+  {
+    "name": "Centennial",
+    "alpha": "10.5",
+    "description": "\r\nMedium intensity floral and citrus (lemon) tones",
+    "brand": "LD Carlson"
+  },
+  {
+    "name": "El Dorado",
+    "alpha": "15",
+    "description": "Best known for a sweet, candy-like aroma with notes of cherry and mango.",
+    "brand": "LD Carlson"
+  },
+  {
+    "name": "German Hallertau Blanc",
+    "alpha": "10.5",
+    "description": "Floral and fruity with passion fruit, grapefruit, pineapple, grape and lemongrass overtones",
+    "brand": "LD Carlson"
+  },
+  {
+    "name": "GERMAN HALLERTAU MITTELFRUH",
+    "alpha": "4.2",
+    "description": "Mild, yet spicy, with floral and citrus tones",
+    "brand": "LD Carlson"
+  },
+  {
+    "name": "Lemondrop",
+    "alpha": "6",
+    "description": "Notes of lemon, mint, green tea and slight melon",
+    "brand": "LD Carlson"
+  },
+  {
+    "name": "Willamette",
+    "alpha": "4.2",
+    "description": null,
+    "brand": "LD Carlson"
+  },
+  {
+    "name": "Brewers Gold",
+    "alpha": "5.7",
+    "description": null,
+    "brand": "Lupin Mart"
+  },
+  {
+    "name": "Australian Galaxy",
+    "alpha": "15.5",
+    "description": null,
+    "brand": "Northern Brewer"
+  },
+  {
+    "name": "Azacca",
+    "alpha": "10.7",
+    "description": null,
+    "brand": "Northern Brewer"
+  },
+  {
+    "name": "Cascade",
+    "alpha": "8",
+    "description": "",
+    "brand": "Northern Brewer"
+  },
+  {
+    "name": "Centennial",
+    "alpha": "11.1",
+    "description": null,
+    "brand": "Northern Brewer"
+  },
+  {
+    "name": "Chinook",
+    "alpha": "12",
+    "description": "",
+    "brand": "Northern Brewer"
+  },
+  {
+    "name": "Citra",
+    "alpha": "11.9",
+    "description": null,
+    "brand": "Northern Brewer"
+  },
+  {
+    "name": "Cluster",
+    "alpha": "7.8",
+    "description": "",
+    "brand": "Northern Brewer"
+  },
+  {
+    "name": "Crystal",
+    "alpha": "3.1",
+    "description": null,
+    "brand": "Northern Brewer"
+  },
+  {
+    "name": "Denali",
+    "alpha": "14.1",
+    "description": "",
+    "brand": "Northern Brewer"
+  },
+  {
+    "name": "El Dorado",
+    "alpha": "14.8",
+    "description": null,
+    "brand": "Northern Brewer"
+  },
+  {
+    "name": "Fuggle",
+    "alpha": "5.6",
+    "description": null,
+    "brand": "Northern Brewer"
+  },
+  {
+    "name": "German Hallertau",
+    "alpha": "4.1",
+    "description": "Typical alpha: 3.0-5.0%. Noble German hop with a mild aroma, slightly fruity and spicy, flowery and haylike. Ideal for aroma and flavor in any German beer, and is also suitable for use in other Continental styles, Belgian ales and lagers.",
+    "brand": "Northern Brewer"
+  },
+  {
+    "name": "German Mandarina",
+    "alpha": "8.5",
+    "description": "",
+    "brand": "Northern Brewer"
+  },
+  {
+    "name": "German Tettnang",
+    "alpha": "3.5",
+    "description": "German noble hop, appropriate for any lager and German ales and wheat beers. Distinctive spicy, fruity aroma and flavor.",
+    "brand": "Northern Brewer"
+  },
+  {
+    "name": "Hallertau",
+    "alpha": "4.1",
+    "description": null,
+    "brand": "Northern Brewer"
+  },
+  {
+    "name": "Idaho 7",
+    "alpha": "12",
+    "description": "",
+    "brand": "Northern Brewer"
+  },
+  {
+    "name": "Mighty Axe Julius",
+    "alpha": "6.6",
+    "description": "",
+    "brand": "Northern Brewer"
+  },
+  {
+    "name": "Mighty Axe Tropica",
+    "alpha": "8.8",
+    "description": "",
+    "brand": "Northern Brewer"
+  },
+  {
+    "name": "Mosaic",
+    "alpha": "11.2",
+    "description": "A new dual-purpose hop, bred from Simcoe\u00ae, formerly known as HBC 369, this is the latest experimental variety to \"go pro\" and become a full commercial variety. Bred by the same people who brought you Citra\u00ae, Warrior\u00ae, Ahtanum, Palisade\u00ae, and Simcoe\u00ae.\r\n\r\nMosaic is so named because it gives a range of aromas and flavors which are complementary to other common hop aromas. Everything from citrus, pine, earth, herbal, mint, bubblegum, blueberry, lime peel, black pepper - the character seems to change depending upon the conditions it is in.\r\n\r\n",
+    "brand": "Northern Brewer"
+  },
+  {
+    "name": "Styrian Golding",
+    "alpha": "5.2",
+    "description": "",
+    "brand": "Northern Brewer"
+  },
+  {
+    "name": "UK Fuggle",
+    "alpha": "6.1",
+    "description": "Typical alpha: 3-5%. Wonderful earthy, pipe-tobacco, floral character. Classic hop for any English beers: pale ale, brown ale, porter, stout..",
+    "brand": "Northern Brewer"
+  },
+  {
+    "name": "US Brewer Gold",
+    "alpha": "9.4",
+    "description": "Brewer Gold Hops are mainly used as a bittering hop, but their intense black currant spice aroma finds traction in Belgian ales.\r\nTypical alpha: 8.5-9.5%. Resiny and spicy bittering hop for use in a variety of beers from English ales to German styles and farmhouse ales.",
+    "brand": "Northern Brewer"
+  },
+  {
+    "name": "US Goldings",
+    "alpha": "5",
+    "description": "",
+    "brand": "Northern Brewer"
+  },
+  {
+    "name": "Williamette",
+    "alpha": "5.4",
+    "description": null,
+    "brand": "Northern Brewer"
+  },
+  {
+    "name": "Amarillo",
+    "alpha": "10",
+    "description": "Discovered by Virgil Gamache Farms, Amarillo\u00ae is one of the top ten aroma varieties utilized by craft brewers. It features relatively high alpha acids along with extremely high levels of myrcene for citrus and grapefruit flavors.\r\n\r\n",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Amarillo Cryo",
+    "alpha": "16",
+    "description": "",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Azacca Cryo",
+    "alpha": "20",
+    "description": "",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Cascade",
+    "alpha": "6.3",
+    "description": "Originating from the USDA-ARA breeding program, Cascade is an aroma-type cultivar bred in 1956 and released in 1972. It was developed by open pollination of a Fuggle seedling. Cascade is the most popular variety in craft brewing and is known for having a unique floral, spicy and citrus character with balanced bittering potential.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Cascade DBL",
+    "alpha": "0.8",
+    "description": "Medium intense floral, citrus and grapefruit tones.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Cascade LupuLN2 (Cryo)",
+    "alpha": "12",
+    "description": "Medium intense floral, citrus and grapefruit tones.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Centennial",
+    "alpha": "9.3",
+    "description": "Bred in 1974 and released by Washington State University in 1990, Centennial is an aroma-type\r\ncultivar that has found favor as one of the most popular varieties in craft brewing. It is often referred\r\nto as a super-Cascade (containing nearly double the alpha content) and can be used for bittering\r\npurposes. Centennial is a diploid cross between Brewer\u2019s Gold and a USDA male.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Chinook",
+    "alpha": "13.7",
+    "description": "Developed by the USDA breeding program in Washington State and released in 1985 as\r\na high alpha bittering variety, Chinook is a cross between Petham Golding and a USDA\r\nmale. In recent years, it has found favor as a dual purpose hop in the craft brewing\r\ncommunity as a result of its spice and pine aroma characteristics.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Citra",
+    "alpha": "13",
+    "description": "Developed by Hop Breeding Company and released in 2007, Citra\u00ae HBC 394 cv. features high\r\nalpha acid and total oil content with a low percentage of co-humulone. It is one of the top\r\nten aroma varieties for craft brewers imparting distinct citrus and tropical fruit flavors.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Citra DBL",
+    "alpha": "2.6",
+    "description": "Specific aroma descriptors include grapefruit, melon, lime, gooseberry, passion fruit and lychee.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Citra LupuLN2 (Cryo)",
+    "alpha": "25",
+    "description": "Specific aroma descriptors include grapefruit, melon, lime, gooseberry, passion fruit and lychee.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Cluster Fugget",
+    "alpha": "8.1",
+    "description": "Cluster Fugget\u2122 is a spontaneous hop blend that is just that...a cluster Fugget of Pacific Northwestern varieties, capturing the adventurous spirit of the home brewing community. Whether it is your first batch, or your one-hundredth, every home brewer has wound up brewing a beer with a cluster Fugget of aromas and flavors. This hop blend was created in celebration of these fortunate mistakes, reminding us that no brew should be taken too seriously.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Columbus",
+    "alpha": "16",
+    "description": "Originally selected by Charles Zimmerman for Hopunion, Inc., Columbus is a descendant\r\nof Nugget. It is a high alpha variety and is primarily used for bittering purposes. Columbus\r\nis often referred to as CTZ, a trio of similar hops including Tomahawk\u00ae and Zeus.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Columbus LupuLN2 (Cryo)",
+    "alpha": "24.5",
+    "description": "Specific aroma descriptors include black pepper, licorice, curry and subtle citrus.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Crystal",
+    "alpha": "4.5",
+    "description": "Bred in 1983 by the USDA, Crystal is a triploid aroma-type cultivar from Hallertau Mittelfr\u00fch,\r\nCascade, Brewer\u2019s Gold and Early Green. It is primarily grown in Oregon and has become\r\nincreasingly popular among craft brewers due to its versatility in a variety of beer styles.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Ekuanot ",
+    "alpha": "13.8",
+    "description": "Developed by Hop Breeding Company and released in 2014, Ekuanot\u00ae HBC 366 cv.\r\nfeatures pronounced aroma characteristics and extremely high oil content. This variety\r\nbursts out of the spring soil in vibrant yellow and gradually matures to a deep green color\r\nby Fall harvest.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Ekuanot DBL",
+    "alpha": "3.2",
+    "description": "Specific descriptors include melon, berry, orange peel, lime, papaya, pine and fresh peppers.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Ekuanot LupuLN2 (Cryo)",
+    "alpha": "25.5",
+    "description": "Specific descriptors include melon, berry, orange peel, lime, papaya, pine and fresh peppers.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "El Dorado",
+    "alpha": "15",
+    "description": "",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Falconer's Flight",
+    "alpha": "10.8",
+    "description": "Developed by Hopunion LLC in 2010, Falconer\u2019s Flight\u00ae hop pellets are an exclusive proprietary hop\r\nblend created to honor and support the legacy of Northwest brewing legend, Glen Hay Falconer.\r\nProceeds from each Falconer\u2019s Flight\u00ae purchase is contributed to the Glen Hay Falconer Foundation.\r\nThese hop pellets are an excellent complement to many IPA and Pale Ale-oriented hop varieties.\r\nSpecific aroma descriptors include distinct tropical, floral, lemon and grapefruit characteristics. ",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Fuggle UK",
+    "alpha": "4.3",
+    "description": "Selected from a seedling in 1861 and released in 1875, Fuggle is the most revered and famous\r\nEnglish variety. It is known for its classic English aroma and is often used in conjunction with\r\nGolding.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "German Hallertau",
+    "alpha": "3.6",
+    "description": "Bred at the Hop Research Center in H\u00fcll in 1980 and released in 1993, Magnum is a German variety\r\n(also grown in the US) and daughter of Galena. It is a high alpha cultivar and is often used as the\r\nbase bittering variety. Magnum does not display any distinct aroma characteristics, however, subtle\r\nspice and fruit characteristics have been noted by some brewers.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "German Magnum",
+    "alpha": "13.5",
+    "description": "Bred at the Hop Research Center in H\u00fcll in 1980 and released in 1993, Magnum is a\r\ndaughter of Galena. It is a high alpha variety with some spice and fruit characteristics. ",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "German Northern Brewer",
+    "alpha": "8",
+    "description": "Originally bred in England in 1934, Northern Brewer is a cross between Canterbury Golding and a\r\nmale seedling of Brewer\u2019s Gold. It was originally grown in the North of England, but has become one\r\nof the main varieties in the Hallertau region of Germany. Northern Brewer displays pleasant pine and\r\nmint characteristics in dual purpose brewing applications.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "German Tettnang",
+    "alpha": "4.5",
+    "description": "A landrace variety originating from the Tettnang region on Lake Constance in Germany,\r\nTettnang (or Tettnanger) is from the Saaz group. It displays fine, noble characteristics\r\nwith a slight spiciness.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Hallertau",
+    "alpha": "5",
+    "description": "US Hallertau originates from the classic Hallertau variety of Germany. It is a noble aroma\r\nvariety. Despite low yield and low resistance to disease, Hallertau remains a historic hop\r\nand is often celebrated in the production of purist recipes and traditional beer styles.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Hersbrucker ",
+    "alpha": "2.8",
+    "description": "A landrace variety originating from the Hersbruck region of Southern Germany, Hersbrucker\r\nhas expanded and is now widely grown throughout the Hallertau and Spalt regions. It\r\ndisplays a delicate aroma profile that is often compared to other noble varieties.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Idaho 7 Cryo",
+    "alpha": "23",
+    "description": "",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Loral",
+    "alpha": "12",
+    "description": "Developed by Hop Breeding company and released in 2016, Loral\u00ae HBC 291 has a noble heritage that straddles the fence between old and new world hop aromatics. It has the ability to complement all beer styles, making it a very versatile hop in the brewery.\r\n\r\nTHIS HOP IS AVAILABLE IN: CRYO HOPS\u00ae PELLETS | T-90 HOP PELLETS",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Loral DBL",
+    "alpha": "3",
+    "description": "Specific aroma descriptors include very pleasant, floral, peppery, lemon-citrus and dark fruit.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Loral LupuLN2 (Cryo)",
+    "alpha": "19.5",
+    "description": "Specific aroma descriptors include very pleasant, floral, peppery, lemon-citrus and dark fruit.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Magnum",
+    "alpha": "13.2",
+    "description": "Bred at the Hop Research Center in H\u00fcll in 1980 and released in 1993, Magnum is a\r\ndaughter of Galena. It is a high alpha variety with some spice and fruit characteristics. ",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Mosaic",
+    "alpha": "12.25",
+    "description": "Developed by Hop Breeding Company and released in 2012, Mosaic\u00ae HBC 369 cv. contains high alpha content and features a unique and complex aroma profile that translates favorably into a variety of beer styles. It is a daughter of Simcoe\u00ae YCR 14 cv. and a Nugget derived male. Mosaic\u00ae is named in honor of the artistic assortment of aromas and flavors it is capable of presenting.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Mosaic DBL",
+    "alpha": "2.2",
+    "description": "Specific aroma descriptors include blueberry, tangerine, papaya, rose, blossoms, grass and bubble gum.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Mosaic LupuLN2 (Cryo)",
+    "alpha": "22",
+    "description": "Specific aroma descriptors include blueberry, tangerine, papaya, rose, blossoms, grass and bubble gum.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "MT Hood",
+    "alpha": "5.3",
+    "description": "Bred in 1983 and released from the USDA breeding program in Oregon in 1989, Mt.\r\nHood is a triploid aroma-type cultivar with similarities to German Hallertau and German\r\nHersbrucker. It is named after the famous Oregon volcano.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Nugget",
+    "alpha": "14.5",
+    "description": "Bred in 1970 by the USDA breeding program in Oregon and released in 1983, Nugget is a\r\nhigh alpha cultivar that is beginning to gain some acceptance as a dual purpose variety.\r\nIts lineage includes Brewer\u2019s Gold, Canterbury Golding and Early Green. ",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Saaz",
+    "alpha": "3.5",
+    "description": "As the US equivalent of the longstanding, Czech Republic landrace variety, Saaz is the\r\nmost classic \u201cnoble\u201d aroma hop with longstanding and strong traditions.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Saaz CZ",
+    "alpha": "3.5",
+    "description": "A Czech Republic landrace variety, Saaz is the most classic \u201cnoble\u201d aroma hop with\r\nlongstanding and strong traditions. It is associated with and defines Czech-style pilsners.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Simcoe",
+    "alpha": "13.6",
+    "description": "Developed by Yakima Chief Ranches and released in 2000, Simcoe\u00ae YCR 14 cv. is known for its\r\nbrewing versatility and unique aroma characteristics. It continues to rise in popularity becoming one\r\nof the top ten varieties in the craft and home brewing industries",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Simcoe DBL",
+    "alpha": "2.2",
+    "description": "Specific aroma descriptors include blueberry, tangerine, papaya, rose, blossoms, grass and bubble gum.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Simcoe LupuLN2 (Cryo)",
+    "alpha": "23",
+    "description": "Specific aroma descriptors include blueberry, tangerine, papaya, rose, blossoms, grass and bubble gum.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Summer",
+    "alpha": "6",
+    "description": "Bred in 1997 at Tasmanian Bushy Park Breeding Garden, Summer\u2122 is the result of open\r\npollination of a tetraploid Czech Saaz. It features balanced citrus and stone fruit flavors,\r\nbut showcases distinct apricot and melon characteristics in dry hopping applications.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Topaz",
+    "alpha": "15.3",
+    "description": "Bred during the 1980s, Topaz\u2122 did not find popularity within the brewing community until\r\n2007-2008. Its ancestry includes an existing high alpha Australian variety crossed with a\r\nWye College male. Topaz\u2122 is known for its single hop applications, producing resinous,\r\ngrass and tropical fruit flavors.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "Tradition",
+    "alpha": "5.5",
+    "description": "Bred at the Hop Research Institute in H\u00fcll and registered in 1993, Tradition is a daughter\r\nof Hallertau Gold. It is often compared to Mittelfr\u00fch, displaying fine, noble characteristics\r\nwith a fruity twist.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "UK Fuggle",
+    "alpha": "4.1",
+    "description": "Selected from a seedling in 1861 and released in 1875, Fuggle is the most revered and famous\r\nEnglish variety. It is known for its classic English aroma and is often used in conjunction with\r\nGolding.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "US Golding",
+    "alpha": "4.9",
+    "description": "Golding hops consist of a group of traditional English aroma varieties which have been\r\ncultivated since 1790. The cultivar originated in England and was named after villages in\r\nEast Kent (Petham, Rothersham, Canterbury, Eastwell). US Golding is the Canterbury strain.",
+    "brand": "Yakima Chief Hops"
+  },
+  {
+    "name": "African Queen",
+    "alpha": "10",
+    "description": "Until now, these South African hops have been highly controlled and priced exorbitantly high due to \"exclusivity\". But we at Yakima Valley Hops believe that just because something is exclusive it does not mean that it should be expensive. So now we are offering these rare (and previously \"exclusive\") South African hops at reasonable prices and even in full pounds. Because we think that everyone should have the chance to brew with these exciting hops!\r\n\r\n",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Amarillo",
+    "alpha": "8.6",
+    "description": "AMARILLO\u00ae IS ONE OF THOSE LEGENDARY VARIETIES AND IS NOW IN THE TOP 10 MOST WIDELY USED HOPS. IT WAS DEVELOPED BY VIRGIL GAMACHE FARMS IN THE YAKIMA VALLEY AND WAS ORIGINALLY NAMED VGXP01 CV. AMARILLO\u00ae OFFERS SOLID BITTERING PROPERTIES IN THE 9-11% ALPHA ACID RANGE AND IT PACKS ONE OF THE HIGHEST MYRCENE OIL CONTENTS (60-70% OF TOTAL OILS) OF ANY HOP. THIS GIVES IT A VERY SWEET CITRUS FLAVOR AND AROMA THAT IS CLOSER TO ORANGES THAN GRAPEFRUIT. THE CITRUS CHARACTER IS BACKED BY SOME LIGHT FLORAL NOTES AS WELL AS MELON AND PEACHES. AMARILLO\u00ae TENDS TO HAVE LOWER YIELDS, BUT IS EXTREMELY RESISTANT TO DOWNY AND POWDERY MILDEW. BALLISTIC IPA BY ALE ASYLUM AND ROGUE'S YELLOW SNOW IPA ARE BOTH SINGLE-HOPPED AMARILLO BEERS.\r\n\r\n\r\n\r\nAROMA: CITRUS-LIKE, MORE ORANGE THAN GRAPEFRUIT, FLORAL\r\n\r\n",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "AU Ella",
+    "alpha": "13.8",
+    "description": "Previously named Stella, Ella\u2122 is the little sister of the Australian superstar Galaxy\u2122. Ella and Galaxy\u2122 share the same mother, but Ella's father is a variety from Spalt, Germany. This parentage gives Ella a pleasant floral aroma that is backed by soft spice. These qualities work best in lagers and pilsners, but Ella can be incorporated into Pale Ales and IPA during dry-hopping. This will preserve some of the lighter oils that are more fruity and tropical like in Galaxy\u2122. \r\n",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "AU Galaxy",
+    "alpha": "14",
+    "description": "The Australian hop brand Galaxy was developed from the breeding program at Hop Products Australia (Barth-Haas Group) and is attracting much attention as a high-impact flavor hop. When used as a late addition, it contributes a striking and distinctive citrus and passion fruit character. Developed and grown exclusively in Australia, Galaxy is a late maturing seedless brand. ",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "AU Vic Secret",
+    "alpha": "17.4",
+    "description": "Aroma/Flavor:  Pineapple, pine, passionfruit. The flavors are lighter than the ones you will find in Galaxy hops.\r\n\r\nTypical Usage: This variety is definitely a flavor hop. The notable fruit flavors really come out in the finished beer when Vic Secret are added as a whirlpool addition or when dry hopping.",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Azacca",
+    "alpha": "13.8",
+    "description": "reviously called ADHA-483, Azacca\u00ae was named after the Haitian god of agriculture. It is big in Alpha Acids (14-16%) and has a bright and refreshing aroma with tropical fruits, citrus, and juicy mango. Azacca is a dual-purpose hop that produces sensational single-hopped beers. Try whirlpooling with Azacca after flameout to maximize the juicy flavors and sweet aroma. \r\n\r\nAroma: fresh citrus, orange, grapefruit, lemon, piney, spicy, pineapple, full, tropical fruit; fresh",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Bravo",
+    "alpha": "14.9",
+    "description": "Came to life in the early 2000's as an open pollination super alpha variety. Bravo typically sits around 14-17% Alpha Acid and because of this quickly became a preferred bittering hop for both professional and home brewers. Despite its well-respected reputation as a bittering hop, Bravo isn't as one-dimensional as it might seem. It also contributes fruity and floral tones that work well in IPAs, Pale Ales, and Red Ales.",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "BRU-1",
+    "alpha": "14.4",
+    "description": "A new experimental developed by John I. Haas and Brulotte Farms in the Yakima Valley. It is big and bold with a fruit-forward character that also offers clean bittering (13 - 15% AA). BRU-1 has a high Myrcene oil content that makes up over 50% of the total oil and contributes aromas of pineapple and stone fruit that is backed by a soft spice. Pale Ales and IPAs are the obvious styles, but might we are going to try brewing some funky Belgian styles. The breeder says BRU-1 pairs well with Citra, Chinook, and other U.S. aroma varieties.",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Cascade",
+    "alpha": "6",
+    "description": "THIS IS THE HOP THAT MADE HOPS FAMOUS. IT SINGLE-HANDEDLY DEFINED THE AMERICAN PALE ALE STYLE. CASCADE IS BURSTING WITH ZESTY GRAPEFRUIT FLAVOR AND AROMA FROM THE HIGH LEVELS OF MYRCENE OIL. IT LENDS A PLEASANT AND BALANCED BITTER, BUT IS IDEALLY USED IN LATE HOP ADDITIONS TO MAXIMIZE THAT BRIGHT FLAVOR AND AROMA. THE BRIGHT CITRUS IS BACKED BY SOME SOFT FLORAL AND SPICE, WHICH ROUNDS OUT THE PROFILE. BREWING WITH FRESH LEAF FROM THIS ICONIC HOP IS A REAL TREAT.\r\n\r\nAROMA: CITRUS AND FLORAL",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Cashmere",
+    "alpha": "5.6",
+    "description": "Developed by Washington State University and released in 2013, Cashmere is the result of a marriage of Cascade and Northern Brewer. Fortuitously, it features alpha acids higher than that of Cascade. A good dual-purpose hop, Cashmere showcases flavors lemon, lime and melon, exhibits a smooth bitterness and is mildly aromatic with a subtle herbal bouquet.\r\n\r\n\r\n\r\nAroma: Smooth bitterness, herbal aroma, flavors of lemon, lime and melon",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Centennial",
+    "alpha": "8.4",
+    "description": "Has become one of the most well-respected hops since being released in 1990. Centennial, named after the centennial anniversary of Washington state, is incredibly well-rounded and useful for bittering, flavor, aroma, and dry-hopping. It quickly developed the nickname Super Cascade for its vibrant citrus and soft pine characteristics. Centennial is the featured hop in legendary IPAs such as Russian River's Pliny the Elder, Founders' Centennial IPA, and Bell's Two Hearted Ale.\r\n",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Chinook",
+    "alpha": "13.1",
+    "description": "Is a product of the USDA breeding program in Washington State. It was originally bred as a bittering hop back in 1985, but has recently been recognized as a dual-purpose hop that is well rounded and suited for many different styles. It has predominately spicy and piney characteristics that transfer through into the flavor and aroma. Chinook also contributes bright grapefruit notes that accentuate its clean bitterness.\r\n\r\nAroma: Herbal, Piney, Floral , and similar to cascade.",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Citra",
+    "alpha": "13.1",
+    "description": "Citra\u00ae Brand HBC 394 is a special aroma hop variety developed by the Hop Breeding Company and released in 2007. Citra\u00ae hops have fairly high alpha acids and total oil contents with a low percentage of cohumulone content. Citra\u00ae hops impart interesting citrus and tropical fruit characters to beer.",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Comet",
+    "alpha": "10",
+    "description": "Despite being around since the early 60's, Comet has seen a recent surge in popularity. It has been referred to as \"Citra's Little Sister\" by brewers who prefer Comet's lower Alpha Acid (9-12%) and well-rounded flavor profile. Comet is zesty with grapefruit and tangerine, but is backed by some unique grassy and herbal elements. Some brewers describe Comet's unique aroma as \"Wild American\" that produces one-of-kind beers.\r\n\r\nAroma: Wild notes, citrus fruit, and lemon grass ",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Crystal",
+    "alpha": "5",
+    "description": "Crystal is a triploid variety developed from the German aroma hop variety Hallertauer Mittelfr\u00fch with primary contributions from Cascade, Brewer\u2019s Gold and Early Green. Released in 1993 from the USDA breeding program, Crystal has become popular in US craft brewing as a triploid Hallertauer. Pedigree Half-sister of Mt. Hood and Liberty derived from Hallertau Mittelfr\u00fch and other crosses Aroma Mild, spicy and floral \r\n",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "CTZ",
+    "alpha": "13.1",
+    "description": "\"CTZ\" stands for Columbus, Tomahawk, and Zeus. These three hop varietals are nearly indistinguishable from one another despite going by different names (mostly for copyright reasons). CTZ has earthy and spicy characteristics that make it an ideal bittering hop for many styles including IPAs, Stouts, and even Lagers. Its Alpha Acids clock in between 14-16%, which contributes an impressive bite. Some undertones of oranges and grapefruit can be achieved in the aroma with later hop additions, but CTZ is not typically used in SMaSH beers. \r\n\r\nAroma: Earthy, spicy, pungent, with some citrus overtones. Not overwhelmingly citrus like Cascade",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "CZ Saaz",
+    "alpha": "3.2",
+    "description": "Czech landrace variety Aroma Classic noble aroma hop with long and strong tradition associated with classic pilsner beer",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Denali",
+    "alpha": "14.5",
+    "description": "Denali\u2122 is a moderately high-alpha hop brand with very high essential oil content. Its aroma characteristics include pineapple, pine and citrus. Denali\u2122 was formely known as Experimental 06277 or Nuggetzilla.\r\n\r\n",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "East Kent Golding",
+    "alpha": "6.2",
+    "description": "Developed from wild Canterbury Whitebine variety in late 1700\u2019s and brought to the market in 1790. The aroma has been described as gentle, fragrant, and pleasant and is recognized as having a typical English character. Goldings are also found to be useful for late hopping lagers, when a delicate aroma is required.",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Ekuanot",
+    "alpha": "15",
+    "description": "Ekuanot (formerly HBC 366) was commercially released in 2014 as \u201cEquinox\u201d by the Hops Breeding Company in Yakima, and subsequently renamed due to trademark issues. It has intense and unique fruity and citrus notes including melon, berry, citruslime, apple and papaya. Ekuanot also contains some spicy, green pepper note. This hop brand has high alpha acids content and high essential oil and is known for its vibrant yellow color during its early growth in the spring. Note Formerly HBC 366 and Equinox ",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "El Dorado",
+    "alpha": "14.1",
+    "description": "This bitter beauty was born and bred at CLS Farms in Moxee (a sub-region of the Yakima Valley). Bursting with juicy stone fruit and tropical notes, this dual-purpose hop has been featured in many great beers since its release in 2010. Big Alpha Acids (13-17%) make this an effective and efficient bittering hop, but can be used in late additions to maximize the fresh, fruity aroma and flavor. El Dorado is an exceptional new dual purpose hop with both high Alpha Acid and intense flavors and aromas. As a bittering hop El Dorado lends a firm but balanced bitterness. When used in later additions, El Dorado brings bright tropical fruit flavors and aromas of pear, watermelon, and stone fruit. El Dorado has become a fan favorite in hop-forward styles and has been featured in stellar beers such as Surly's Overrated IPA, Ninkasi's Dawn of the Red, and Let it Ride from Indeed Brewing.\r\n\r\n",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Experimental Grapefruit",
+    "alpha": "15.5",
+    "description": null,
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Experimental Lemonaughty",
+    "alpha": "10.5",
+    "description": null,
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Experimental Tangerine",
+    "alpha": "6.5",
+    "description": null,
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Fuggle",
+    "alpha": "6",
+    "description": "Woody, earthy, pleasant vegetal.",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Fuggles",
+    "alpha": "4.4",
+    "description": null,
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "GR Monroe",
+    "alpha": "3.5",
+    "description": "The new hop variety Monroe established itself similarly extravagant as who it was named after. With an alpha content of only 2.5 % and an oil content of 0.95 ml/100 g, Monroe showcases itself at the beginning as mild and smooth. When you add the hop to a beer, then she shows her true colors: exactly like everyone remembers Marilyn Monroe in a red dress. A guise full of red aromas. In the nose, there are wonderful raspberry notes supplimented with orange syrup and added to this in the taste is the sweet taste that reminds one of summer and cherries.\r\n",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "GR Tettnanger",
+    "alpha": "2.8",
+    "description": "The Tettnanger variety is a traditional and indigenous hop from the Saaz group which is mainly cultivated around Tettnanger on Lake Constance Germany. The unique combination of the favorable climate at Lake Constance and sandy clay soils from the Ice-age produces a very fine aroma. This variety has a good tolerance to plant diseases. Tettnanger is widely used in lager beer styles. Pedigree Traditional German landrace variety Aroma Mild and pleasant; slightly spicy \r\n\r\n",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Hallertau (Mittelfruh)",
+    "alpha": "3.6",
+    "description": "This is the Kaiser of German hops. It possesses the classic noble aroma popular in all of the traditional German styles. Humulene is the prominent oil in the hop and comprises around half (45-55%) of the total oils. It has a mild bittering potential (3-5.5% AA), but is clean, crisp, and perfect for pilsners. Hallertau Mittelfr\u00fch has seen a recent boom in popularity, with both farmers and growers, due to recently disease-free crops. ",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "H\u00fcll Melon",
+    "alpha": "7.5",
+    "description": "H\u00fcll Melon is a new variety from Germany with distinctive honeydew melon and strawberry aroma. The variety was bred at H\u00fcll, and released in 2012 as one of the varieties bred and commercialized in response to demand from the craft beer industry\u2019s desire for bold tastes and differentiating flavors. \r\n",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Idaho 7",
+    "alpha": "12.5",
+    "description": "Playfully known 007: The Golden Hop, Idaho 7\u2122 is the first hop release from Jackson Farms just outside of Boise. This hop is ripe with zesty oranges and tangerines that are reminiscent of marmalade. Its uniqueness shows up as a pleasant herbal character that melds with the citrus to come across like fine earl grey tea. 007 is a dual purpose hop capable of carrying a recipe, but it works best in conjunction with Citra or a bittering hop like Warrior.",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Idaho Gem",
+    "alpha": "12.1",
+    "description": " Aroma of pineapple, cherry, candied fruit, herbal and spicy.\r\nHISTORY: Named after its home state, Idaho Gem is a found hop by Gooding Farms in Parma. It is of unknown lineage.\r\n",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Jarrylo",
+    "alpha": "12.6",
+    "description": "Named after the Slavic god of fertility, Jarrylo (pronounced Yar-i-low) is a unique variety bred by the ADHA. With Summit as its mother, Jarrylo was originally used in lots of lagers and pilsners, but has been successfully used in everything from Weizens to IPAs. It has a unique banana character that plays well with wheats and weizens, but it also inherited its mother's spicey notes, which are perfectly suited for Saisons and other belgian styles. Jarrylo has also been used as a bittering hop in pale ales and IPAs, lending a fresh fruit aroma of pears and oranges.",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Loral",
+    "alpha": "10.5",
+    "description": "Loral\u2122, formerly known as HBC 291, provides a more traditional yet unique hop character, providing the floral and herbal notes one would expect from a fine noble aroma hop. Its mother is the U.S. developed aroma variety Glacier; the grandmother being the long-established European noble aroma variety known as Tardif de Bourgogne originating in the Bourgogne region of Eastern France. The father is a son of the U.S. developed Nugget variety. Loral\u2122 is characterized by having numerous small, dense cones with moderate alpha acids. The variety is expected to be commercialized in 2016.\r\n\r\nAROMA PROFILE\r\nThe aroma profile of Loral\u2122 has been described as a \u201csuper noble hop\u201d with its wonderful floral and herbal notes followed by a backdrop of citrus and earthy character. A touch of sweet fruity aroma rounds out this well-balanced hop. In beer, the floral notes are accentuated yet complemented nicely by fruity and citrus with just a hint of herbal. Don\u2019t expect an in-your-face fruity character with Loral\u2122 as seen with some recent U.S. variety releases - this hop is approachable and balanced. Great for distinctive IPAs and pale ales but perfect for sessionable and lager-style beers.",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Magnum",
+    "alpha": "14.5",
+    "description": "Clean, Bitter, sometimes described as Citrus ",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Mandarina Bavaria",
+    "alpha": "8.5",
+    "description": "Mandarina Bavaria is a new German hop with a pleasant fruitiness and very distinctive tangerine and citrus notes. The variety was bred at H\u00fcll and was released 2012 in response to demand from the craft beer industry and its desire for bold tastes and differentiating flavors. \r\n",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Medusa",
+    "alpha": "3.8",
+    "description": "One of the newest hops on the scene, Medusa\u2122 is unlike anything you\u2019ve encountered before. Native to Colorado and New Mexico, humulus lupulus neomexicanus is an entirely different species from its European cousin, humuls lupulus lupulus. Grown exclusively by CLS Farms in Yakima WA, where 8 different varieties of neo-mexicanus are being developed.\r\n\r\nMedusa\u2122 delivers strong flavor and aroma characteristics of intense guava, melon, apricot and citrus fruit. Along with these highly desirable aroma and flavor characteristics, it comes in with low alpha levels. Excellent as an aroma hop in IPA\u2019s, Pale Ales and anything that is looking for strong aromatics.\r\n\r\nProbably one of the most striking features of this hops is it\u2019s multi-headed cone; it adds to the allure and story of Medusa\u2122, truly a unique hop that is sure to become the talk of the industry.\r\n",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Mosaic",
+    "alpha": "11.5",
+    "description": "Mosaic\u00ae is an aroma hop brand developed by Hop Breeding Company LLC (John I. Haas, Inc. and Select Botanicals Group) and released in 2012. Mosaic\u00ae offers a unique and complex blend of floral, tropical, fruity, and earthy characteristics that translate very favorably into several styles of beer. Mosaic\u00ae is the daughter of YCR 14 Simcoe\u00ae and a Nugget derived male.\r\n\r\n",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Mt Hood",
+    "alpha": "5.5",
+    "description": "This hop hails from German ancestry in the Hallertau region, but thrives in the Yakima Valley. It is an aroma hop that imparts spice and floral notes perfect for many German beer styles. The warm spice aroma works well in a wide range of styles. Mount Hood is best brewed with when it is fresh!\r\n",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Northern Brewer",
+    "alpha": "9.3",
+    "description": " Some descriptors included: Medium-strong with some wild tones (which means nothing to me), woody with evergreen and mint overtones, mild or very soft citrus and fruity quality.",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "NZ Kohatu",
+    "alpha": "4.8",
+    "description": "Was released in 2011 by the New Zealand Institute for Plant and Food Research. It is a lower Alpha variety (6-7%) that is a descendant of Hallertau Mittelfr\u00fch, which is where Kohatu inherited its high Humulene oil content from. This high Humulene percentage (36-37% of total oil) imparts a complex woodsy and resinous character. Kohatu also has a high Myrcene content (35-36%) that gives it a very fresh aroma of tropical fruits, making it an excellent hop for single-hopped pale ales and session IPAs. \r\n",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "NZ Motueka",
+    "alpha": "4.3",
+    "description": "",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "NZ Nelson Sauvin",
+    "alpha": "12",
+    "description": " Nelson Sauvin hops impart a grape-like flavor to beers, defined as a cool climate white wine grape flavors. Other descriptors include extreme fruitiness, Passionfruit, and \u201cFresh Crushed Gooseberries\u201d.",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "NZ Rakau",
+    "alpha": "9.3",
+    "description": "Was rediscovered and re-released in 2007 by the New Zealand hop breeding program. It is bursting with a big fruit-forward character that is described by the breeder as \"the whole orchard\". Rakau is a clean and efficient bittering hop at 10 - 11% AA, but it is usually used in later additions to maximize the fresh fruit aroma. Myrcene oil is the highlight and makes up 56% of the total oils, lending flavors and aromas of apricot, plum, mango, pear, and other stone fruits. Some lighter notes of lime and pine are also present. Rakau has found its niche in the pale ale category and is able to carry.",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "NZ Waimea",
+    "alpha": "13.9",
+    "description": "This is a dual purpose hop that is well-suited for big, heavy-handed brews. It was developed by The New Zealand Institute for Plant & Food Research and boasts big Alpha Acids (16 - 19%). Because of the high Alpha Acids, Waimea works well as a bittering hop for big IPAs. Waimea's aroma and flavor is a pleasant balance of fresh citrus and resinous pine. Aromas of tangerine, grapefruit, and pomelo can be achieved through dry-hopping and whirlpool additions. \r\n",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Pekko",
+    "alpha": "16.8",
+    "description": "IS ANOTHER UNIQUE HOP VARIETY FROM ADHA, THIS ONE IS NAMED AFTER THE FINNISH GOD OF FARMING. PEKKO HAS A COMPLEX HERBAL CHARACTER THAT CAN BE LIKENED TO MINT, JUNIPER, OR SAGE. BECAUSE OF THIS, THE BITTERNESS COMES ACROSS AS VERY CLEAN AND CRISP WITH A PLEASANT BITE. THERE ARE BACKING NOTES OF TROPICAL FRUITS AND MELONS, BUT THEY ARE SUBDUED IN COMPARISON TO THE HERBAL NOTES. THE ALPHA ACIDS RANGE FROM 13-16%, MAKING PEKKO EFFICIENT WHEN USED AS A BITTERING HOP.PEKKO\u2122 IS NAMED FOR THE FINNISH GOD OF FIELD AND CROPS. PEKKO'S\u2122 COMPLEX AND CLEAN CHARACTERISTICS OF FLORAL CITRUS, AND MINT LEND ITSELF TO MANY DIFFERENT STYLES OF BEER.\r\n\r\nAROMA: CLEAN, PLEASANT, FLORAL, CITRUS, MINT, HERBAL, MELLOW, PINEAPPLE, THYME, SAAZ-LIKE CUCUMBER, SAGE, TOUCH OF LEMON\r\n",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Perle",
+    "alpha": "5.7",
+    "description": "Is a well-rounded German variety that has steadily gained recognition since its release in 1978. It offers good bittering properties (5-9% Alpha Acids) that is paired with pleasant aromas of herbs and spices sought after in the German breeds. Perle has a similar oil profile to Hallertau Mittelfr\u00fch with Humulene as the major contributor (sometimes over 50% of total oils). Perle's storage stability is excellent, which makes it highly sought after by professional brewers. \r\n\r\n",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Saaz",
+    "alpha": "3.4",
+    "description": "Saaz is the famous aroma landrace variety originating in the Czech area of the same name. It has very mild, pleasant noble hoppy notes perfectly suited for and defines the Czech-style pilsner beers. ",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Sabro",
+    "alpha": "15.1",
+    "description": "Sabro\u2122\tbrand\tHBC\t438\twas\tdeveloped\tby\tthe\tHop\tBreeding\tCompany\tand\treleased\tin\t2018.\tSabro\tis\tan\taroma\thop\tthat\tis\tnotable\tfor\tits\tcomplexity\tof\tfruity\tand\tcitrus\tflavors.\tIt\timparts\tdistinct tangerine,\tcoconut,\ttropical fruit,\tand\tstone\tfruit\taromas,\twith\thints\tof\tcedar,\tmint,\tand\tcream.\tSabro\u2019s\tpedigree\tis\tthe\tresult\tof\ta\tunique cross\tpollination\tof\ta\tfemale\tneomexicanus\thop.\tWith\ta\trobust brewing\tperformance,\tSabro\tproves\tto\tbe\ta strongly\texpressive hop that translates its flavor incredibly\twell\tinto\tbeer. \r\n",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Simcoe",
+    "alpha": "12.9",
+    "description": "Simcoe\u00ae, previously named YCR 14, was released in 2000 by Select Botanicals Group. It has since become one of the most popular hops for both the craft beer and homebrewing industries. At 12%-14% Alpha Acid, Simcoe has great bittering qualities, but also packs a complex aroma of stone fruit, pine, and citrus zest. It truly is a dual purpose hop that is capable of standing on its own in single-hopped beers in a wide range of styles. \r\n\r\nAroma: passionfruit, pine resin, apricot, and fruity aroma and flavor. ",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Southern Aroma",
+    "alpha": "5.8",
+    "description": "Until now, these South African hops have been highly controlled and priced exorbitantly high due to \"exclusivity\". But we at Yakima Valley Hops believe that just because something is exclusive it does not mean that it should be expensive. So now we are offering these rare (and previously \"exclusive\") South African hops at reasonable prices and even in full pounds. Because we think that everyone should have the chance to brew with these exciting hops!\r\n",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Southern Passion",
+    "alpha": "11.2",
+    "description": "Until now, these South African hops have been highly controlled and priced exorbitantly high due to \"exclusivity\". But we at Yakima Valley Hops believe that just because something is exclusive it does not mean that it should be expensive. So now we are offering these rare (and previously \"exclusive\") South African hops at reasonable prices and even in full pounds. Because we think that everyone should have the chance to brew with these exciting hops!",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Southern Promise",
+    "alpha": "10.4",
+    "description": "Until now, these South African hops have been highly controlled and priced exorbitantly high due to \"exclusivity\". But we at Yakima Valley Hops believe that just because something is exclusive it does not mean that it should be expensive. So now we are offering these rare (and previously \"exclusive\") South African hops at reasonable prices and even in full pounds. Because we think that everyone should have the chance to brew with these exciting hops!\r\n",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Strata ",
+    "alpha": "12",
+    "description": "Strata, formerly known as X-331, is Indie Hop\u2019s first hop variety to be released out of the Oregon State Aroma Hop Breeding Program in Corvallis, Oregon. Born in 2009, Strata is the progeny of an open pollinated Perle located in an Oregon State experimental field at Corvallis, Oregon. From the get-go, this hop was out to impress. Between its strong disease resistance, vigorous growing habit, and complex layers of aroma, x331 rose to the top of an impressive group of competitors.\r\n\r\nBrewing characteristics: Passion fruit, Grapefruit, Strawberry, Dank\r\n",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Summit",
+    "alpha": "17.3",
+    "description": "Was the first hop released by the ADHA back in 2003. It is a high Alpha Acid (16-19%) variety derived from Lexus, Zeus, Nugget, and some open pollination. Summit is primarily used for bittering, but can contribute a very pungent aroma that is characterised by herbs and spices like black pepper and anise. Incredibly fresh Summit often smells of onions and garlic(due to the high AA), but will dissipate after oxidizing for a day or so.\r\n\r\n\r\nAroma/Flavor: Orange, tangerine, citrus notes \u2013 similar to Simcoe hops",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Tahoma",
+    "alpha": "6.9",
+    "description": "Tahoma was released by Washington State University in\r\n\r\n2013. Tahoma is a daughter of Glacier that retains the very low cohumulone characteristic of Glacier with somewhat higher alpha acid content. Tahoma has a pleasant aroma with subtle lemon citrus notes.\r\n\r\n",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Warrior",
+    "alpha": "17.3",
+    "description": "\tThis hop has become the go-to bittering hop (Alpha Acid 15-18%) for many craft and commercial breweries across America. It was developed by Select Botanicals Groupand Yakima Chief Ranches in the Yakima Valley. It has a very mild aroma and contributes balanced flavor, but the bitter bite is sought after for bigger IPAs and many Imperial styles. Its high myrcene oil content contributes to its piney and zesty character.\r\n\r\nAroma/Flavor: Grapefruity , lemony, Pineapple, and some piney notes.\t\r\nAlpha Acid: 15.0-18.0%",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Willamette",
+    "alpha": "5",
+    "description": "One of the most prevalent hops grown in the United States that accounts for nearly 20% of the hop crop. Willamette is the daughter of Fuggle and carries with it the same pepper and spice. It is primarily used as an aroma hop due to its low Alpha Acid content, which usually sits around 4-6%. Works really well when brewing darker styles for the colder months.\r\n\r\n",
+    "brand": "Yakima Valley Hops"
+  },
+  {
+    "name": "Pahto",
+    "alpha": "16.5",
+    "description": "Pahto is a \u201csuper high alpha\u201d hop that growers love because it is late-maturing and resistant to powdery and downy mildew. When used as an early-kettle addition, Pahto consistently delivers a clean canvass of bitterness that can be used for a wide variety of beer styles.",
+    "brand": "YCR"
+  }
+]
