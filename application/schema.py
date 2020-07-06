@@ -1,8 +1,6 @@
 from marshmallow import Schema, fields
 
 class BrewSchema(Schema):
-  class Meta:
-    unknown = EXCLUDE
   
   brew_id = fields.Int(required=True)
   author = fields.String()
@@ -15,6 +13,7 @@ class BrewSchema(Schema):
   mash_steps = fields.Dict()
   fermentation_steps = fields.Dict()
   batch_size = fields.String()
+  notes = fields.String()
 
 class ReminderSchema(Schema):
   pass

@@ -2844,8 +2844,384 @@
     "brand": "Weyermann"
   },
   {
+    "name": "Acerola",
+    "brand": null
+  },
+  {
+    "name": "Apple",
+    "brand": null
+  },
+  {
+    "name": "Apricot",
+    "brand": null
+  },
+  {
+    "name": "Apricot (dried)",
+    "brand": null
+  },
+  {
+    "name": "Banana",
+    "brand": null
+  },
+  {
+    "name": "Blackberry",
+    "brand": null
+  },
+  {
+    "name": "Blueberry",
+    "brand": null
+  },
+  {
+    "name": "Boysenberry",
+    "brand": null
+  },
+  {
+    "name": "Cantaloupe",
+    "brand": null
+  },
+  {
+    "name": "Carambola",
+    "brand": null
+  },
+  {
+    "name": "Carrot",
+    "brand": null
+  },
+  {
+    "name": "Casaba Melon",
+    "brand": null
+  },
+  {
+    "name": "Cashew",
+    "brand": null
+  },
+  {
+    "name": "Celery",
+    "brand": null
+  },
+  {
+    "name": "Cherry",
+    "brand": null
+  },
+  {
+    "name": "Cherry, dark sweet",
+    "brand": null
+  },
+  {
+    "name": "Cherry, Montmorency",
+    "brand": null
+  },
+  {
+    "name": "Crabapple",
+    "brand": null
+  },
+  {
+    "name": "Cranberry",
+    "brand": null
+  },
+  {
+    "name": "Currant, black",
+    "brand": null
+  },
+  {
+    "name": "Currant, red",
+    "brand": null
+  },
+  {
+    "name": "Date",
+    "brand": null
+  },
+  {
+    "name": "Date (dried)",
+    "brand": null
+  },
+  {
+    "name": "Dewberry",
+    "brand": null
+  },
+  {
+    "name": "Elderberry",
+    "brand": null
+  },
+  {
+    "name": "Fig",
+    "brand": null
+  },
+  {
+    "name": "Figs (dried)",
+    "brand": null
+  },
+  {
+    "name": "Gooseberry",
+    "brand": null
+  },
+  {
+    "name": "Grape",
+    "brand": null
+  },
+  {
+    "name": "Grape, concord",
+    "brand": null
+  },
+  {
+    "name": "Grapefruit",
+    "brand": null
+  },
+  {
+    "name": "Guanabana",
+    "brand": null
+  },
+  {
+    "name": "Guava",
+    "brand": null
+  },
+  {
+    "name": "Honeydew Melon",
+    "brand": null
+  },
+  {
+    "name": "Jackfruit",
+    "brand": null
+  },
+  {
+    "name": "Kiwi",
+    "brand": null
+  },
+  {
+    "name": "Lemon juice",
+    "brand": null
+  },
+  {
+    "name": "Lime",
+    "brand": null
+  },
+  {
+    "name": "Lime juice",
+    "brand": null
+  },
+  {
+    "name": "Loganberry",
+    "brand": null
+  },
+  {
+    "name": "Lychee (Litchi)",
+    "brand": null
+  },
+  {
+    "name": "Mango",
+    "brand": null
+  },
+  {
+    "name": "Maple Sap",
+    "brand": null
+  },
+  {
+    "name": "Maple Syrup",
+    "brand": null
+  },
+  {
+    "name": "Mulberry",
+    "brand": null
+  },
+  {
+    "name": "Nectarine",
+    "brand": null
+  },
+  {
+    "name": "Orange",
+    "brand": null
+  },
+  {
+    "name": "Orange (Blood Orange)",
+    "brand": null
+  },
+  {
+    "name": "Orange juice",
+    "brand": null
+  },
+  {
+    "name": "Papaya",
+    "brand": null
+  },
+  {
+    "name": "Passionfruit",
+    "brand": null
+  },
+  {
+    "name": "Peach",
+    "brand": null
+  },
+  {
+    "name": "Pear",
+    "brand": null
+  },
+  {
+    "name": "Persimmon",
+    "brand": null
+  },
+  {
+    "name": "Pineapple",
+    "brand": null
+  },
+  {
+    "name": "Plum",
+    "brand": null
+  },
+  {
+    "name": "Pomegranate",
+    "brand": null
+  },
+  {
+    "name": "Prickly Pear",
+    "brand": null
+  },
+  {
+    "name": "Prunes (dried)",
+    "brand": null
+  },
+  {
+    "name": "Pumpkin (canned)",
+    "brand": null
+  },
+  {
+    "name": "Pumpkin (fresh)",
+    "brand": null
+  },
+  {
+    "name": "Quince",
+    "brand": null
+  },
+  {
+    "name": "Raisins (dried)",
+    "brand": null
+  },
+  {
+    "name": "Raspberry",
+    "brand": null
+  },
+  {
+    "name": "Raspberry, black",
+    "brand": null
+  },
+  {
+    "name": "Raspberry, red",
+    "brand": null
+  },
+  {
+    "name": "Rhubarb",
+    "brand": null
+  },
+  {
+    "name": "Strawberry",
+    "brand": null
+  },
+  {
+    "name": "Sultanas",
+    "brand": null
+  },
+  {
+    "name": "Tangelo",
+    "brand": null
+  },
+  {
+    "name": "Tangerine",
+    "brand": null
+  },
+  {
+    "name": "Tomato",
+    "brand": null
+  },
+  {
+    "name": "Watermelon",
+    "brand": null
+  },
+  {
+    "name": "Youngberry",
+    "brand": null
+  },
+  {
     "name": "Maiden Voyage",
     "brand": "Admiral"
+  },
+  {
+    "name": "Agave Nectar",
+    "brand": null
+  },
+  {
+    "name": "Belgian Candi Sugar - Amber/Brown (60L)",
+    "brand": null
+  },
+  {
+    "name": "Belgian Candi Sugar - Clear/Blond (0L)",
+    "brand": null
+  },
+  {
+    "name": "Belgian Candi Sugar - Dark (275L)",
+    "brand": null
+  },
+  {
+    "name": "Brown Rice Syrup - Gluten Free",
+    "brand": null
+  },
+  {
+    "name": "Brown Sugar",
+    "brand": null
+  },
+  {
+    "name": "Cane Sugar",
+    "brand": null
+  },
+  {
+    "name": "Corn Sugar - Dextrose",
+    "brand": null
+  },
+  {
+    "name": "Corn Syrup",
+    "brand": null
+  },
+  {
+    "name": "Honey",
+    "brand": null
+  },
+  {
+    "name": "Honey (Buckwheat)",
+    "brand": null
+  },
+  {
+    "name": "Invert Sugar Syrup",
+    "brand": null
+  },
+  {
+    "name": "Lactose (Milk Sugar)",
+    "brand": null
+  },
+  {
+    "name": "Maltodextrin",
+    "brand": null
+  },
+  {
+    "name": "Maple Syrup",
+    "brand": null
+  },
+  {
+    "name": "Molasses",
+    "brand": null
+  },
+  {
+    "name": "Soft Candi Sugar - Blond",
+    "brand": null
+  },
+  {
+    "name": "Soft Candi Sugar - Brown",
+    "brand": null
+  },
+  {
+    "name": "Turbinado",
+    "brand": null
+  },
+  {
+    "name": "White Sorghum Syrup  - Gluten Free",
+    "brand": null
   },
   {
     "name": "Organic Coconut Sugar",

@@ -1,5 +1,5 @@
-from ..repository import Repository
-from ..repository.mongo import MongoRepository
+from repository import Repository
+from repository.mongo import MongoRepository
 from .schema import BrewSchema
 
 class Service(object):
@@ -19,7 +19,7 @@ class Service(object):
     return [self.dump(brew) for brew in brews]
 
   def find_brew(self, brew_id):
-    brew = self.repo_client.find({repo_id})
+    brew = self.repo_client.find({brew_id})
     if brew.author_id == self.user_id:
       return self.dump(brew)
     elif brew.public:
@@ -31,7 +31,7 @@ class Service(object):
     self.repo_client.create(brew)
     return self.dump(brew.data)
 
-  def update_brew_with(self, brew_id, brew)
+  def update_brew_with(self, brew_id, brew):
     records_affected = self.repo_client.update({'author_id':self.user_id, 'brew_id':brew_id}, brew)
     return records_affected > 0
 
