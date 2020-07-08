@@ -5,7 +5,7 @@ COLLECTION_NAME = 'brews'
 
 class MongoRepository(object):
   def __init__(self):
-    mongo_url = os.environ.get('MONGO_URL')
+    mongo_url = os.environ.get('MONGO_URI')
     self.db = MongoClient(mongo_url).brews
 
   def find_all(self, selector):

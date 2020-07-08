@@ -1,22 +1,20 @@
 from .middlewares import login_required
-from flask import Flask, json, g, request
-from app.service import Service as Brew
-from app.schema import BrewSchema
-from flask_cors import CORS
+from flask import Flask, json, g, request, Blueprint, flash, redirect, render_template, session, url_for
+from .service import Service as Brew
+from .schema import BrewSchema
 
-app = Flask(__name__)
-CORS(app)
+bp = Blueprint('api', __name__, url_prefix='/api')
 
-@app.route("/ping", methods=["GET"])
+@bp.route("/ping", methods=["GET"])
 def pong():
   return json_response({})
 
-@app.route("/brews", methods=["GET"])
+@bp.route("/brews", methods=["GET"])
 @login_required
 def index():
   return json_response(Brew(g.user).find_all_brews())
 
-@app.route("/brews", methods=["POST"])
+@bp.route("/brews", methods=["POST"])
 @login_required
 def create():
   brew = BrewSchema().load(json.loads(request.data))
@@ -27,7 +25,7 @@ def create():
   brew = Brew(g.user).create_brew_for(brew)
   return json_response(brew)
 
-@app.route("/brew/<int:brew_id>", methods=["GET"])
+@bp.route("/brew/<int:brew_id>", methods=["GET"])
 @login_required
 def show(brew_id):
   brew = Brew(g.user).find_brew(brew_id)
@@ -37,7 +35,7 @@ def show(brew_id):
   else:
     return json_response({'error':'beer not found'})
 
-@app.route("/brew/<int:brew_id>", methods=["POST"])
+@bp.route("/brew/<int:brew_id>", methods=["POST"])
 @login_required
 def update(brew_id):
   brew = BrewSchema().load(json.loads(request.data))
@@ -51,7 +49,7 @@ def update(brew_id):
   else:
     return json_response({'error':'beer not found'}, 404)
 
-@app.route("/brew/<int:brew_id>", methods=["DELETE"])
+@bp.route("/brew/<int:brew_id>", methods=["DELETE"])
 @login_required
 def delete(brew_id):
   brew_service = Brew(g.user)

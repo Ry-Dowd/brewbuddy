@@ -1,5 +1,5 @@
-from repository import Repository
-from repository.mongo import MongoRepository
+from .repository import Repository
+from .repository.mongo import MongoRepository
 from .schema import BrewSchema
 
 class Service(object):

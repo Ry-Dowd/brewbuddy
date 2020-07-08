@@ -1,24 +1,29 @@
 import os
 
+from . import config
 from flask import Flask
-from .service import Service
+from flask_pymongo import PyMongo
+from . import endpoints
+
+mongo = PyMongo()
 
 def create_app(test_config=None):
   app = Flask(__name__, instance_relative_config=True)
-  app.config.from_mapping(
-    SECRET_KEY='dev',
-    DATABASE=os.path.join(app.instance_path, 'flaskr.sqlite'),
-  )
-  
+
   if test_config is None:
-    app.config.from_pyfile('config.py', silent=True)
+    app.config.from_object(config.Config)
   else:
     app.config.from_mapping(test_config)
+
+  print("config:", app.config)
+  mongo.init_app(app)
 
   try:
     os.makedirs(app.instance_path)
   except OSError:
     pass
+  
+  app.register_blueprint(endpoints.bp)
 
   @app.route('/hello')
   def hello():
