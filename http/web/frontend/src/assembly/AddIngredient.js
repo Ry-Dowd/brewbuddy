@@ -7,3 +7,5 @@ const AddIngredient = () => {
     </>
   )
 }
+
+export default AddIngredient

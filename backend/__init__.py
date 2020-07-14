@@ -4,6 +4,7 @@ from . import config
 from flask import Flask
 from flask_pymongo import PyMongo
 from . import endpoints
+from . import auth
 
 mongo = PyMongo()
 
@@ -24,6 +25,7 @@ def create_app(test_config=None):
     pass
   
   app.register_blueprint(endpoints.bp)
+  app.register_blueprint(auth.bp)
 
   @app.route('/hello')
   def hello():
