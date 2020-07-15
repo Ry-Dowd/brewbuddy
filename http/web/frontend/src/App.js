@@ -22,9 +22,6 @@ function App() {
       
       <Router> 
         <Switch>
-          <Route path='/app/login'>
-            <Login setUser={setUser}/>
-          </Route>
           <Route path='/app/dashboard'>
           {!user && <Redirect to='/app/login' />}
             <Dashboard />
@@ -38,7 +35,7 @@ function App() {
             <Assembly />
           </Route>
           <Route>
-            <Redirect to='/app/login' />
+            <Redirect to='/app/dashboard' />
           </Route>
         </Switch>
       </Router>

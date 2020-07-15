@@ -1,12 +1,12 @@
 import os
-
+from flask_sqlalchemy import SQLAlchemy
 from . import config
 from flask import Flask
-from flask_pymongo import PyMongo
 from . import endpoints
 from . import auth
+from models import db
 
-mongo = PyMongo()
+db=SQLAlchemy()
 
 def create_app(test_config=None):
   app = Flask(__name__, instance_relative_config=True)
@@ -16,19 +16,23 @@ def create_app(test_config=None):
   else:
     app.config.from_mapping(test_config)
 
-  print("config:", app.config)
-  mongo.init_app(app)
 
   try:
     os.makedirs(app.instance_path)
   except OSError:
     pass
   
-  app.register_blueprint(endpoints.bp)
-  app.register_blueprint(auth.bp)
+  db.init_app(app)
 
-  @app.route('/hello')
-  def hello():
-    return "Hello, World!"
+  with app.app_context():
 
-  return app
+    db.create_all()
+
+    app.register_blueprint(endpoints.bp)
+    app.register_blueprint(auth.bp)
+
+    @app.route('/hello')
+    def hello():
+      return "Hello, World!"
+
+    return app

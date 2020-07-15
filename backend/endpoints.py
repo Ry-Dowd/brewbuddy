@@ -1,6 +1,5 @@
 from .middlewares import login_required
 from flask import Flask, json, g, request, Blueprint, flash, redirect, render_template, session, url_for
-from .service import Service as Brew
 from .schema import BrewSchema
 
 bp = Blueprint('api', __name__, url_prefix='/api')

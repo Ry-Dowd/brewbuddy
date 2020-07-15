@@ -1,10 +1,28 @@
 version: '3'
 services:
-  mongo:
-    image: mongo
+  postgres:
+    image: postgres
     restart: always
     ports:
-     - "27017:27017"
+     - "5432:5432"
     environment:
-      MONGO_INITDB_ROOT_USERNAME: mongo_user
-      MONGO_INITDB_ROOT_PASSWORD: secret
+      POSTGRES_DB: postgres
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    volumes:
+      - ./data:/projects/tools/postgres-data
+
+  # flask:
+  #   build: .
+  #   depends_on: 
+  #     - postgres
+  #   environment: 
+  #     STAGE: test
+  #     SQLALCHEMY_DATABASE_URI: postgresql+psycopg2://postgres:postgres@postgres/test
+  #   networks:
+  #     - default
+  #   ports:
+  #     - 5000:5000
+  #   volumes:
+  #     - .:/code
+  #   restart: always
