@@ -13,9 +13,9 @@ def get_env_variable(name):
 
 class Config:
 
-  ENV = 'development'
+  FLASK_ENV = 'dev'
   TESTING = True
-  SECRET_KEY = environ.get('SECRET_KEY')
+  SECRET_KEY = 'devSecret'
   STATIC_FOLDER = 'static'
   TEMPLATES_FOLDER = 'templates'
 
@@ -25,9 +25,11 @@ class Config:
   POSTGRES_PW = get_env_variable("POSTGRES_PW")
   POSTGRES_DB = get_env_variable("POSTGRES_DB")
   SQLALCHEMY_DATABASE_URI = f"postgresql+psycopg2://{POSTGRES_USER}:{POSTGRES_PW}@{POSTGRES_URL}/{POSTGRES_DB}"
+  SQLALCHEMY_TRACK_MODIFICATIONS = False
 
 class ProductionConfig(Config):
   FLASK_ENV = 'production'
   TESTING = False
   DEBUG = False
   DATABASE_URI = environ.get('PROD_DATABASE_URI')
+  SECRET_KEY = environ.get('SECRET_KEY')

@@ -1,11 +1,10 @@
 import os
 from flask_sqlalchemy import SQLAlchemy
 from . import config
-from flask import Flask
-from . import endpoints
-from . import auth
-from models import db
+from flask import Flask, redirect
+from flask_login import LoginManager
 
+login_manager=LoginManager()
 db=SQLAlchemy()
 
 def create_app(test_config=None):
@@ -23,9 +22,14 @@ def create_app(test_config=None):
     pass
   
   db.init_app(app)
+  login_manager.init_app(app)
+
+  print(app.config)
 
   with app.app_context():
-
+    
+    from . import endpoints
+    from . import auth
     db.create_all()
 
     app.register_blueprint(endpoints.bp)
@@ -34,5 +38,9 @@ def create_app(test_config=None):
     @app.route('/hello')
     def hello():
       return "Hello, World!"
+
+    @app.route('/test')
+    def test():
+      return redirect('/hello')
 
     return app
